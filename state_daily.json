@@ -1,0 +1,168 @@
+{
+ "daily": {
+  "count": 0,
+  "date": "2026-10-18"
+ },
+ "seen": {
+  "https://news.sky.com/story/second-day-of-violence-in-milan-as-protesters-clash-with-police-13600765": 1792363755.2189581,
+  "https://news.sky.com/story/trump-endorses-netanyahu-ahead-of-israeli-elections-calling-him-great-warrior-prime-minister-13600658": 1792363755.218943,
+  "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss": 1792363755.2189484,
+  "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss": 1792363755.2189422,
+  "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss": 1792363755.2189615,
+  "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss": 1792363755.218962,
+  "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss": 1792363755.2189305,
+  "https://www.dw.com/en/albania-s-prime-minister-edi-rama-ignores-calls-to-resign-amid-violent-clashes/a-79693789?maca=en-rss-en-all-1573-xml-mrss": 1792363755.218948,
+  "https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-all-1573-xml-mrss": 1792363755.2189314,
+  "https://www.dw.com/en/israel-trump-endorses-netanyahu-ahead-of-elections/a-79693698?maca=en-rss-en-all-1573-xml-mrss": 1792363755.2189412,
+  "https://www.france24.com/en/americas/20261018-canada-military-base-fire-four-dead-39-hospitalised": 1792363755.21893,
+  "https://www.france24.com/en/france/20261018-paris-police-in-new-battles-with-protesters-and-looters": 1792363755.2189586,
+  "https://www.france24.com/en/middle-east/20261018-trump-endorses-embattled-israeli-pm-netanyahu-ahead-of-october-27-election": 1792363755.2189424,
+  "https://www.france24.com/en/video/20261018-israeli-settlers-attack-european-diplomats-beat-french-mayor": 1792363755.2189534,
+  "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base": 1792363755.218931,
+  "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor": 1792363755.2189527,
+  "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright": 1792363755.2189283
+ },
+ "topics": [
+  {
+   "t": 1792363755.2189333,
+   "tokens": [
+    "base",
+    "blaze",
+    "canadian",
+    "carney",
+    "describes",
+    "fast",
+    "fire",
+    "forces",
+    "four",
+    "killed",
+    "mark",
+    "military",
+    "minister",
+    "moving",
+    "peacetime",
+    "people",
+    "prime",
+    "soil",
+    "tragedies",
+    "violent",
+    "worst"
+   ]
+  },
+  {
+   "t": 1792363755.218944,
+   "tokens": [
+    "ahead",
+    "country",
+    "current",
+    "elections",
+    "endorses",
+    "far",
+    "israel",
+    "minister",
+    "netanyahu",
+    "october",
+    "partners",
+    "polls",
+    "president",
+    "prime",
+    "right",
+    "supports",
+    "trump"
+   ]
+  },
+  {
+   "t": 1792363755.218949,
+   "tokens": [
+    "again",
+    "albania",
+    "anti",
+    "between",
+    "calls",
+    "clashes",
+    "continued",
+    "demonstrators",
+    "down",
+    "edi",
+    "government",
+    "ignores",
+    "minister",
+    "place",
+    "police",
+    "prime",
+    "protesters",
+    "rama",
+    "resign",
+    "step",
+    "took",
+    "violent"
+   ]
+  },
+  {
+   "t": 1792363755.2189543,
+   "tokens": [
+    "assault",
+    "attack",
+    "attacked",
+    "attempts",
+    "bank",
+    "delegation",
+    "doubt",
+    "european",
+    "filmed",
+    "footage",
+    "french",
+    "guardian",
+    "hours",
+    "israeli",
+    "masked",
+    "mayor",
+    "militants",
+    "netanyahu",
+    "raise",
+    "reporter",
+    "seconds",
+    "settler",
+    "video",
+    "west"
+   ]
+  },
+  {
+   "t": 1792363755.218959,
+   "tokens": [
+    "city",
+    "clash",
+    "clashed",
+    "day",
+    "italian",
+    "milan",
+    "police",
+    "protesters",
+    "second",
+    "violence"
+   ]
+  },
+  {
+   "t": 1792363755.2189624,
+   "tokens": [
+    "attack",
+    "attacked",
+    "bank",
+    "daily",
+    "delegation",
+    "diplomats",
+    "harvesters",
+    "israeli",
+    "jerusalem",
+    "near",
+    "occupied",
+    "olive",
+    "settlers",
+    "taybeh",
+    "visiting",
+    "west",
+    "while"
+   ]
+  }
+ ]
+}
