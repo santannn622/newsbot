@@ -1,0 +1,40 @@
+{
+ "daily": {
+  "count": 1,
+  "date": "2026-10-18"
+ },
+ "seen": {
+  "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss": 1792362961.4464474,
+  "https://www.france24.com/en/americas/20261018-canada-military-base-fire-four-dead-39-hospitalised": 1792362961.4464467,
+  "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base": 1792362961.446448,
+  "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright": 1792362961.446445
+ },
+ "topics": [
+  {
+   "t": 1792362961.4464488,
+   "tokens": [
+    "base",
+    "blaze",
+    "canadian",
+    "carney",
+    "describes",
+    "fast",
+    "fire",
+    "forces",
+    "four",
+    "killed",
+    "mark",
+    "military",
+    "minister",
+    "moving",
+    "peacetime",
+    "people",
+    "prime",
+    "soil",
+    "tragedies",
+    "violent",
+    "worst"
+   ]
+  }
+ ]
+}
