@@ -1,12 +1,17 @@
 {
  "daily": {
   "count": 1,
-  "date": "2026-10-18"
+  "date": "2026-10-19"
  },
  "seen": {
+  "https://news.sky.com/story/australian-mp-attacked-outside-her-office-says-pm-13600871": 1792411451.4950745,
+  "https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming?traffic_source=rss": 1792411451.495073,
   "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss": 1792362961.4464474,
+  "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-xml-mrss": 1792411451.4950738,
   "https://www.france24.com/en/americas/20261018-canada-military-base-fire-four-dead-39-hospitalised": 1792362961.4464467,
   "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base": 1792362961.446448,
+  "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured": 1792411451.4950702,
+  "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb": 1792411451.495072,
   "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright": 1792362961.446445
  },
  "topics": [
@@ -34,6 +39,30 @@
     "tragedies",
     "violent",
     "worst"
+   ]
+  },
+  {
+   "t": 1792411451.4950764,
+   "tokens": [
+    "accident",
+    "albanese",
+    "anthony",
+    "apparent",
+    "attack",
+    "australian",
+    "car",
+    "critically",
+    "deliberate",
+    "driver",
+    "federal",
+    "hit",
+    "independent",
+    "injured",
+    "injuring",
+    "lawmaker",
+    "minister",
+    "monday",
+    "prime"
    ]
   }
  ]
