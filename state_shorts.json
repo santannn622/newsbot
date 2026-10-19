@@ -1,15 +1,18 @@
 {
  "daily": {
-  "count": 2,
+  "count": 3,
   "date": "2026-10-19"
  },
  "seen": {
   "https://news.sky.com/story/australian-mp-attacked-outside-her-office-says-pm-13600871": 1792411451.4950745,
+  "https://news.sky.com/story/cult-leader-found-guilty-of-ordered-followers-to-starve-their-children-to-death-13600891": 1792426556.350752,
   "https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming?traffic_source=rss": 1792411451.495073,
   "https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss": 1792415246.5500786,
+  "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss": 1792426556.3507497,
   "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss": 1792415246.5500815,
   "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss": 1792362961.4464474,
   "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-xml-mrss": 1792411451.4950738,
+  "https://www.dw.com/en/kenyan-cult-leader-paul-mackenzie-found-guilty-over-191-starvation-deaths/a-79706279?maca=en-rss-en-all-1573-xml-mrss": 1792426556.3507512,
   "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-all-1573-xml-mrss": 1792415246.5500767,
   "https://www.france24.com/en/americas/20261018-canada-military-base-fire-four-dead-39-hospitalised": 1792362961.4464467,
   "https://www.france24.com/en/middle-east/20261019-world-food-programme-to-end-aid-for-half-a-million-in-gaza-due-to-funding-shortfall": 1792415246.5500808,
@@ -89,6 +92,31 @@
     "shortages",
     "thirds",
     "world"
+   ]
+  },
+  {
+   "t": 1792426556.3507535,
+   "tokens": [
+    "191",
+    "all",
+    "charges",
+    "children",
+    "cult",
+    "found",
+    "guilty",
+    "kenya",
+    "leader",
+    "mackenzie",
+    "murder",
+    "murders",
+    "parents",
+    "pastor",
+    "paul",
+    "proclaimed",
+    "self",
+    "starve",
+    "them",
+    "told"
    ]
   }
  ]
