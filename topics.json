@@ -51,7 +51,9 @@
     "DW",
     "https://rss.dw.com/xml/rss-en-all"
    ]
-  ]
+  ],
+  "subscribe_shorts": "Subscribe for the world news, every day.",
+  "subscribe_daily": "If you want the world news explained simply every evening, subscribe, and come back tomorrow for the next update."
  },
  "sports": {
   "label": "Sports",
@@ -105,6 +107,8 @@
     "talkSPORT",
     "https://talksport.com/feed/"
    ]
-  ]
+  ],
+  "subscribe_shorts": "Subscribe for the sports news, every day.",
+  "subscribe_daily": "If you want your sports news every day, subscribe, and come back tomorrow for the next roundup."
  }
 }

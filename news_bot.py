@@ -325,6 +325,9 @@ def run_shorts(topic):
             save_state(name, st)
             continue
 
+        line = T.get("subscribe_shorts", "")
+        if line and "subscribe" not in script.lower():
+            script = script + " " + line
         names = [i["source"] for i in its]
         links = [i["link"] for i in its[:3]]
         sid = "n" + hashlib.md5(its[0]["link"].encode()).hexdigest()[:8]
@@ -388,7 +391,11 @@ def run_daily(topic):
     if not d.get("intro") or not d.get("outro"):
         raise RuntimeError("Gemini did not return an intro and outro.")
     segments.insert(0, {"kind": "intro", "text": str(d["intro"])})
-    segments.append({"kind": "outro", "text": str(d["outro"])})
+    outro = str(d["outro"])
+    line = T.get("subscribe_daily", "")
+    if line and "subscribe" not in outro.lower():
+        outro = outro + " " + line
+    segments.append({"kind": "outro", "text": outro})
 
     title = str(d.get("title") or T["default_title"])[:95]
     payload = {"id": T["id_prefix"] + today.strftime("%Y%m%d"), "title": title, "date_label": date_label,
