@@ -1,33 +1,41 @@
 {
  "daily": {
   "count": 0,
-  "date": "2026-10-19"
+  "date": "2026-10-20"
  },
  "seen": {
+  "https://news.sky.com/story/alberta-votes-to-remain-part-of-canada-13601218": 1792527329.005553,
   "https://news.sky.com/story/arrests-over-israeli-settler-attacks-on-us-photojournalist-and-european-diplomats-in-west-bank-13600842": 1792444558.0331652,
   "https://news.sky.com/story/cult-leader-found-guilty-of-ordered-followers-to-starve-their-children-to-death-13600891": 1792444558.0331354,
   "https://news.sky.com/story/four-canadian-soldiers-killed-after-grass-fire-spread-a-kilometre-in-36-seconds-13600915": 1792444558.0331597,
   "https://news.sky.com/story/second-day-of-violence-in-milan-as-protesters-clash-with-police-13600765": 1792363755.2189581,
   "https://news.sky.com/story/trump-endorses-netanyahu-ahead-of-israeli-elections-calling-him-great-warrior-prime-minister-13600658": 1792363755.218943,
   "https://news.sky.com/story/un-cuts-food-aid-to-half-a-million-gazans-over-funding-shortages-13600991": 1792444558.0331452,
+  "https://www.aljazeera.com/economy/2026/10/20/macron-lines-up-more-gulf-diesel-as-france-battles-soaring-fuel?traffic_source=rss": 1792527329.0057647,
   "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss": 1792363755.2189484,
   "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss": 1792363755.2189422,
+  "https://www.aljazeera.com/news/2026/10/20/lula-challenges-bolsonaro-to-release-personal-records-before-election?traffic_source=rss": 1792527329.0057557,
   "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss": 1792363755.2189615,
   "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss": 1792444558.0331445,
   "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss": 1792444558.0331302,
+  "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss": 1792527329.0055618,
   "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss": 1792363755.218962,
   "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss": 1792444558.0331328,
   "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss": 1792444558.0331583,
   "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss": 1792444558.0331464,
   "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss": 1792363755.2189305,
+  "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss": 1792527329.0055497,
   "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss": 1792444558.0331707,
   "https://www.dw.com/en/albania-s-prime-minister-edi-rama-ignores-calls-to-resign-amid-violent-clashes/a-79693789?maca=en-rss-en-all-1573-xml-mrss": 1792363755.218948,
+  "https://www.dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182?maca=en-rss-en-all-1573-xml-mrss": 1792527329.0057561,
   "https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-all-1573-xml-mrss": 1792363755.2189314,
   "https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-xml-mrss": 1792444558.0331523,
   "https://www.dw.com/en/israel-trump-endorses-netanyahu-ahead-of-elections/a-79693698?maca=en-rss-en-all-1573-xml-mrss": 1792363755.2189412,
   "https://www.dw.com/en/kenya-cult-leader-guilty-of-murdering-190-children-1-adult/a-79706279?maca=en-rss-en-all-1573-xml-mrss": 1792444558.0331347,
+  "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-xml-mrss": 1792527329.0057602,
   "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-all-1573-xml-mrss": 1792444558.033146,
   "https://www.dw.com/en/west-bank-israel-arrests-10-suspects-over-settler-attacks-on-us-journalist-european-diplomats/a-79696514?maca=en-rss-en-all-1573-xml-mrss": 1792444558.0331647,
+  "https://www.france24.com/en/africa/20261020-more-than-150-killed-sudan-drone-strike-disputed-abyei-border-region": 1792527329.0057607,
   "https://www.france24.com/en/americas/20261018-canada-military-base-fire-four-dead-39-hospitalised": 1792363755.21893,
   "https://www.france24.com/en/france/20261018-paris-police-in-new-battles-with-protesters-and-looters": 1792363755.2189586,
   "https://www.france24.com/en/middle-east/20261018-trump-endorses-embattled-israeli-pm-netanyahu-ahead-of-october-27-election": 1792363755.2189424,
@@ -35,14 +43,17 @@
   "https://www.france24.com/en/video/20261019-four-soldiers-dead-dozens-injured-in-fire-at-canada-military-base": 1792444558.033159,
   "https://www.france24.com/en/video/20261019-france-protests-who-are-the-people-arrested-during-the-unrest": 1792444558.0331702,
   "https://www.france24.com/en/video/20261019-france-wants-curfews-in-some-areas-after-weekend-of-riots": 1792444558.0331533,
+  "https://www.france24.com/en/video/20261020-macron-secures-200-000-tonnes-of-extra-diesel-per-month-from-uae-bahrain": 1792527329.0057652,
   "https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head": 1792444558.0331469,
   "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base": 1792363755.218931,
   "https://www.theguardian.com/news/audio/2026/oct/19/france-protests-escalate-riots-looting-arrests-the-latest": 1792444558.0331697,
+  "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks": 1792527329.0057485,
   "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor": 1792363755.2189527,
   "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright": 1792363755.2189283,
   "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister": 1792444558.0331528,
   "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers": 1792444558.033164,
-  "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children": 1792444558.0331335
+  "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children": 1792444558.0331335,
+  "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum": 1792527329.0055518
  },
  "topics": [
   {
@@ -333,6 +344,120 @@
     "there",
     "unrest",
     "weekend"
+   ]
+  },
+  {
+   "t": 1792527329.0055544,
+   "tokens": [
+    "alberta",
+    "canada",
+    "canadian",
+    "carney",
+    "deep",
+    "divisions",
+    "endure",
+    "great",
+    "overwhelmingly",
+    "part",
+    "political",
+    "province",
+    "reject",
+    "remain",
+    "result",
+    "separatism",
+    "though",
+    "voted",
+    "votes"
+   ]
+  },
+  {
+   "t": 1792527329.00575,
+   "tokens": [
+    "arabia",
+    "attacks",
+    "british",
+    "carry",
+    "defend",
+    "defensive",
+    "deploy",
+    "escalating",
+    "fighter",
+    "houthi",
+    "jets",
+    "missions",
+    "protect",
+    "saudi",
+    "typhoon"
+   ]
+  },
+  {
+   "t": 1792527329.0057569,
+   "tokens": [
+    "bank",
+    "bolsonaro",
+    "brazil",
+    "challenges",
+    "election",
+    "left",
+    "lula",
+    "personal",
+    "phone",
+    "president",
+    "records",
+    "release",
+    "right",
+    "rival",
+    "same",
+    "tax",
+    "wing"
+   ]
+  },
+  {
+   "t": 1792527329.0057614,
+   "tokens": [
+    "150",
+    "abyei",
+    "around",
+    "border",
+    "caused",
+    "disputed",
+    "dozens",
+    "drone",
+    "hit",
+    "killed",
+    "kills",
+    "large",
+    "market",
+    "region",
+    "south",
+    "strike",
+    "sudan"
+   ]
+  },
+  {
+   "t": 1792527329.0057657,
+   "tokens": [
+    "000",
+    "295",
+    "bahrain",
+    "battles",
+    "commitments",
+    "consumption",
+    "deals",
+    "diesel",
+    "france",
+    "french",
+    "fuel",
+    "gulf",
+    "increase",
+    "lines",
+    "macron",
+    "month",
+    "percent",
+    "prices",
+    "soaring",
+    "tonnes",
+    "uae"
    ]
   }
  ]
