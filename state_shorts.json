@@ -1,9 +1,10 @@
 {
  "daily": {
-  "count": 3,
-  "date": "2026-10-19"
+  "count": 1,
+  "date": "2026-10-20"
  },
  "seen": {
+  "https://news.sky.com/story/alberta-votes-to-remain-part-of-canada-13601218": 1792484962.2992697,
   "https://news.sky.com/story/australian-mp-attacked-outside-her-office-says-pm-13600871": 1792411451.4950745,
   "https://news.sky.com/story/cult-leader-found-guilty-of-ordered-followers-to-starve-their-children-to-death-13600891": 1792426556.350752,
   "https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming?traffic_source=rss": 1792411451.495073,
@@ -15,9 +16,11 @@
   "https://www.dw.com/en/kenyan-cult-leader-paul-mackenzie-found-guilty-over-191-starvation-deaths/a-79706279?maca=en-rss-en-all-1573-xml-mrss": 1792426556.3507512,
   "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-all-1573-xml-mrss": 1792415246.5500767,
   "https://www.france24.com/en/americas/20261018-canada-military-base-fire-four-dead-39-hospitalised": 1792362961.4464467,
+  "https://www.france24.com/en/americas/20261019-alberta-votes-to-remain-part-of-canada-in-victory-for-pm-carney": 1792484962.2992723,
   "https://www.france24.com/en/middle-east/20261019-world-food-programme-to-end-aid-for-half-a-million-in-gaza-due-to-funding-shortfall": 1792415246.5500808,
   "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base": 1792362961.446448,
   "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured": 1792411451.4950702,
+  "https://www.npr.org/2026/10/19/nx-s1-6005810/alberta-voters-decide-whether-to-take-a-step-toward-separating-from-canada": 1792484962.2992713,
   "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb": 1792411451.495072,
   "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright": 1792362961.446445,
   "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza": 1792415246.55008
@@ -117,6 +120,22 @@
     "starve",
     "them",
     "told"
+   ]
+  },
+  {
+   "t": 1792484962.299274,
+   "tokens": [
+    "alberta",
+    "canada",
+    "ever",
+    "first",
+    "part",
+    "province",
+    "referendum",
+    "remain",
+    "separation",
+    "voted",
+    "votes"
    ]
   }
  ]
