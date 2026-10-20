@@ -1,0 +1,39 @@
+{
+ "daily": {
+  "count": 1,
+  "date": "2026-10-20"
+ },
+ "seen": {
+  "https://www.bbc.co.uk/sport/basketball/articles/cqe9lr3zr4k1o?at_medium=RSS&at_campaign=rss": 1792497158.9444633,
+  "https://www.cbssports.com/wnba/news/angel-reese-demanded-the-ball-dream-wnba-finals-history/": 1792497158.9444642,
+  "https://www.skysports.com/nba/news/12040/13601194/wnba-finals-angel-reese-scores-30-points-16-rebounds-as-atlanta-dream-win-at-golden-state-valkyries-to-level-best-of-seven-series-1-1": 1792497158.944462,
+  "https://www.theguardian.com/sport/2026/oct/19/angel-reese-double-double-dream-valkyries-wnba-finals-game-2": 1792497158.944465
+ },
+ "topics": [
+  {
+   "t": 1792497158.944466,
+   "tokens": [
+    "angel",
+    "atlanta",
+    "delivered",
+    "down",
+    "finals",
+    "game",
+    "golden",
+    "level",
+    "opener",
+    "points",
+    "rebounds",
+    "reese",
+    "scores",
+    "series",
+    "she",
+    "state",
+    "stretch",
+    "struggled",
+    "win",
+    "wnba"
+   ]
+  }
+ ]
+}
