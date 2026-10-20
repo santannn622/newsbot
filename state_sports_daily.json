@@ -1,0 +1,170 @@
+{
+ "daily": {
+  "count": 0,
+  "date": "2026-10-20"
+ },
+ "seen": {
+  "https://sports.yahoo.com/articles/man-city-boss-maresca-backs-214000492.html": 1792533961.7556264,
+  "https://sports.yahoo.com/articles/why-nfl-wont-punishing-eagles-214332185.html": 1792533961.7556005,
+  "https://www.bbc.co.uk/sport/cricket/articles/c962ylv3l334o?at_medium=RSS&at_campaign=rss": 1792533961.755614,
+  "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss": 1792533961.7556357,
+  "https://www.cbssports.com/nfl/news/eagles-will-not-be-punished-jalen-hurts-blood-clots-situation/": 1792533961.7556024,
+  "https://www.skysports.com/cricket/news/12040/13601229/england-slump-to-defeat-against-pakistan-in-odi-tri-series-after-faltering-chasing-303-in-rawalpindi": 1792533961.7556138,
+  "https://www.skysports.com/football/liverpool-vs-villarreal/report/577635": 1792533961.7556198,
+  "https://www.skysports.com/football/manchester-city-vs-aek-athens/report/577636": 1792533961.755626,
+  "https://www.skysports.com/football/paris-saint-germain-vs-barcelona/report/577638": 1792533961.7556312,
+  "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united": 1792533961.7556353,
+  "https://www.theguardian.com/football/live/2026/oct/20/liverpool-v-villarreal-champions-league-live": 1792533961.7556207,
+  "https://www.theguardian.com/football/live/2026/oct/20/psg-v-barcelona-manchester-city-v-aek-athens-and-more-champions-league-live": 1792533961.755632,
+  "https://www.theguardian.com/sport/2026/oct/20/nfl-philadelphia-eagles-jalen-hurts-blood-clots-no-discipline": 1792533961.7556033,
+  "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live": 1792533961.7556152
+ },
+ "topics": [
+  {
+   "t": 1792533961.7556045,
+   "tokens": [
+    "approach",
+    "backlash",
+    "blood",
+    "clot",
+    "eagles",
+    "getting",
+    "handling",
+    "here",
+    "hurts",
+    "involved",
+    "isn",
+    "jalen",
+    "nfl",
+    "punishing",
+    "received",
+    "situation",
+    "won"
+   ]
+  },
+  {
+   "t": 1792533961.7556162,
+   "tokens": [
+    "against",
+    "batting",
+    "crumble",
+    "crumbled",
+    "defeat",
+    "england",
+    "excellent",
+    "malfunctioned",
+    "odi",
+    "opener",
+    "pakistan",
+    "rawalpindi",
+    "run",
+    "series",
+    "severely",
+    "start",
+    "tri",
+    "versus"
+   ]
+  },
+  {
+   "t": 1792533961.7556212,
+   "tokens": [
+    "against",
+    "anfield",
+    "back",
+    "came",
+    "champions",
+    "come",
+    "defeat",
+    "down",
+    "goals",
+    "league",
+    "liverpool",
+    "make",
+    "ngumoha",
+    "season",
+    "stars",
+    "three",
+    "thriller",
+    "villarreal",
+    "win",
+    "wins"
+   ]
+  },
+  {
+   "t": 1792533961.755627,
+   "tokens": [
+    "aek",
+    "athens",
+    "bagged",
+    "champions",
+    "city",
+    "claim",
+    "cruised",
+    "dominant",
+    "foden",
+    "hat",
+    "hero",
+    "league",
+    "man",
+    "manchester",
+    "phil",
+    "second",
+    "stars",
+    "thrash",
+    "trick",
+    "victory",
+    "win"
+   ]
+  },
+  {
+   "t": 1792533961.7556324,
+   "tokens": [
+    "barcelona",
+    "champions",
+    "classic",
+    "defeat",
+    "first",
+    "germain",
+    "handed",
+    "league",
+    "lost",
+    "paris",
+    "psg",
+    "saint",
+    "season"
+   ]
+  },
+  {
+   "t": 1792533961.7556362,
+   "tokens": [
+    "accuses",
+    "acknowledges",
+    "back",
+    "believes",
+    "board",
+    "carrick",
+    "club",
+    "continue",
+    "cristiano",
+    "culture",
+    "down",
+    "games",
+    "hag",
+    "him",
+    "insists",
+    "letting",
+    "manager",
+    "manchester",
+    "michael",
+    "needs",
+    "points",
+    "ronaldo",
+    "start",
+    "ten",
+    "toxic",
+    "united",
+    "winning"
+   ]
+  }
+ ]
+}
