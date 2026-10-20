@@ -1,16 +1,19 @@
 {
  "daily": {
-  "count": 2,
+  "count": 3,
   "date": "2026-10-20"
  },
  "seen": {
   "https://www.bbc.co.uk/sport/basketball/articles/cqe9lr3zr4k1o?at_medium=RSS&at_campaign=rss": 1792497158.9444633,
+  "https://www.bbc.co.uk/sport/cricket/articles/c962ylv3l334o?at_medium=RSS&at_campaign=rss": 1792521108.5578814,
   "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss": 1792502854.9181507,
   "https://www.cbssports.com/wnba/news/angel-reese-demanded-the-ball-dream-wnba-finals-history/": 1792497158.9444642,
+  "https://www.skysports.com/cricket/news/12040/13601229/england-slump-to-defeat-against-pakistan-in-odi-tri-series-after-faltering-chasing-303-in-rawalpindi": 1792521108.55788,
   "https://www.skysports.com/nba/news/12040/13601194/wnba-finals-angel-reese-scores-30-points-16-rebounds-as-atlanta-dream-win-at-golden-state-valkyries-to-level-best-of-seven-series-1-1": 1792497158.944462,
   "https://www.skysports.com/watch/video/13601277/explained-why-was-there-tension-between-erik-ten-hag-and-cristiano-ronaldo": 1792502854.9181533,
   "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united": 1792502854.9181547,
-  "https://www.theguardian.com/sport/2026/oct/19/angel-reese-double-double-dream-valkyries-wnba-finals-game-2": 1792497158.944465
+  "https://www.theguardian.com/sport/2026/oct/19/angel-reese-double-double-dream-valkyries-wnba-finals-game-2": 1792497158.944465,
+  "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live": 1792521108.557882
  },
  "topics": [
   {
@@ -58,6 +61,29 @@
     "ten",
     "trafford",
     "united"
+   ]
+  },
+  {
+   "t": 1792521108.5578828,
+   "tokens": [
+    "against",
+    "batting",
+    "crumble",
+    "crumbled",
+    "defeat",
+    "england",
+    "excellent",
+    "malfunctioned",
+    "odi",
+    "opener",
+    "pakistan",
+    "rawalpindi",
+    "run",
+    "series",
+    "severely",
+    "start",
+    "tri",
+    "versus"
    ]
   }
  ]
