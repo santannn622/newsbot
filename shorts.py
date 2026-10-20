@@ -55,6 +55,7 @@ AI_IMAGES = bool(CFG.get("ai_images", True))
 IMAGE_STYLE = CFG.get("image_style", "clean editorial illustration, flat vector style, blue and teal palette, abstract and symbolic, no text, no logos, no people")
 IMG_EXT = (".jpg", ".jpeg", ".png", ".webp")
 PIXABAY_SIZE = CFG.get("pixabay_size", "medium")
+BADGE_LABEL = CFG.get("badge_label", "WORLD NEWS")
 REAL_CLIPS = bool(CFG.get("real_clips", True))
 MAX_CLIP_SECONDS = float(CFG.get("max_clip_seconds", 20))   # keep short: safer for fair use
 CLIP_SKIP = float(CFG.get("clip_skip_seconds", 0))          # start this far into the clip
@@ -623,7 +624,7 @@ def make_thumbnail(path, title, date_label, bg, work):
             "Style: T,%s,104,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,9,3,5,90,90,0,1\n"
             "Style: B,%s,46,&H00000000,&H000000FF,&H0000D7FF,&H0000D7FF,-1,0,0,0,100,100,0,0,3,12,0,7,60,60,50,1\n\n"
             "[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n") % (tw, th, FONT, FONT)
-    badge = "WORLD NEWS" + (" • " + date_label.upper() if date_label else "")
+    badge = BADGE_LABEL + (" • " + date_label.upper() if date_label else "")
     body = ("Dialogue: 0,0:00:00.00,0:00:05.00,T,,0,0,0,,%s\nDialogue: 0,0:00:00.00,0:00:05.00,B,,0,0,0,,%s\n"
             % (_esc(title).upper(), _esc(badge)))
     ass.write_text(head + body, encoding="utf-8")

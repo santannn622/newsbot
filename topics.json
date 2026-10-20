@@ -1,0 +1,110 @@
+{
+ "world": {
+  "label": "World news",
+  "badge": "WORLD NEWS",
+  "prompt_shorts": "shorts",
+  "prompt_daily": "daily",
+  "hashtags_shorts": "#Shorts #WorldNews #News",
+  "hashtags_daily": "#WorldNews #News #DailyNews",
+  "id_prefix": "roundup",
+  "default_title": "World News Update",
+  "skip": "suicid|\\brape|sexual(ly)? (assault|abuse)|molest|pedo|child abuse|beheading|torture|graphic|massacre of children",
+  "generic_terms": [
+   "world map",
+   "city skyline night",
+   "newsroom",
+   "globe network"
+  ],
+  "generic_prompts": [
+   "a glowing world map with connected lines of light",
+   "an abstract globe surrounded by flowing data streams",
+   "a calm city skyline at dusk, flat illustration",
+   "an empty modern newsroom desk with soft blue light"
+  ],
+  "image_style": "clean editorial illustration, flat vector style, blue and teal palette, abstract and symbolic, no text, no logos, no people",
+  "feeds": [
+   [
+    "BBC",
+    "https://feeds.bbci.co.uk/news/world/rss.xml"
+   ],
+   [
+    "The Guardian",
+    "https://www.theguardian.com/world/rss"
+   ],
+   [
+    "Al Jazeera",
+    "https://www.aljazeera.com/xml/rss/all.xml"
+   ],
+   [
+    "NPR",
+    "https://feeds.npr.org/1004/rss.xml"
+   ],
+   [
+    "France 24",
+    "https://www.france24.com/en/rss"
+   ],
+   [
+    "Sky News",
+    "https://feeds.skynews.com/feeds/rss/world.xml"
+   ],
+   [
+    "DW",
+    "https://rss.dw.com/xml/rss-en-all"
+   ]
+  ]
+ },
+ "sports": {
+  "label": "Sports",
+  "badge": "SPORTS NEWS",
+  "prompt_shorts": "sports_shorts",
+  "prompt_daily": "sports_daily",
+  "hashtags_shorts": "#Shorts #Sports #SportsNews",
+  "hashtags_daily": "#Sports #SportsNews #DailySports",
+  "id_prefix": "sportsroundup",
+  "default_title": "Daily Sports Update",
+  "skip": "suicid|\\brape|sexual(ly)? (assault|abuse)|molest|child abuse|graphic|\\bdied\\b|\\bdies\\b|passed away|fatal|betting|bookmaker|gambl|\\bodds\\b|tipster",
+  "generic_terms": [
+   "stadium crowd",
+   "football pitch",
+   "basketball court",
+   "stadium lights"
+  ],
+  "generic_prompts": [
+   "a floodlit empty stadium at night, flat illustration",
+   "abstract motion lines sweeping across a pitch",
+   "a glowing trophy silhouette on a dark stage, abstract",
+   "a crowd of silhouettes cheering under stadium lights, flat vector"
+  ],
+  "image_style": "bold editorial illustration, flat vector style, vivid orange and deep blue palette, dynamic motion lines, abstract, no text, no logos, no real people",
+  "feeds": [
+   [
+    "BBC Sport",
+    "https://feeds.bbci.co.uk/sport/rss.xml"
+   ],
+   [
+    "ESPN",
+    "https://www.espn.com/espn/rss/news"
+   ],
+   [
+    "Sky Sports",
+    "https://www.skysports.com/rss/12040"
+   ],
+   [
+    "The Guardian",
+    "https://www.theguardian.com/sport/rss"
+   ],
+   [
+    "CBS Sports",
+    "https://www.cbssports.com/rss/headlines/"
+   ],
+   [
+    "Yahoo Sports",
+    "https://sports.yahoo.com/rss/"
+   ],
+   [
+    "talkSPORT",
+    "https://talksport.com/feed/"
+   ]
+  ]
+ }
+}
