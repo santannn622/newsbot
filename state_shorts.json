@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 2,
+  "count": 3,
   "date": "2026-10-21"
  },
  "seen": {
@@ -9,13 +9,16 @@
   "https://news.sky.com/story/cult-leader-found-guilty-of-ordered-followers-to-starve-their-children-to-death-13600891": 1792426556.350752,
   "https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming?traffic_source=rss": 1792411451.495073,
   "https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss": 1792415246.5500786,
+  "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss": 1792583163.8920383,
   "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss": 1792570166.5287006,
   "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss": 1792496018.9925358,
   "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss": 1792502939.7584162,
   "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss": 1792502939.7584188,
   "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss": 1792426556.3507497,
+  "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss": 1792583163.8920434,
   "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss": 1792415246.5500815,
   "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss": 1792362961.4464474,
+  "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-xml-mrss": 1792583163.8920417,
   "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-xml-mrss": 1792411451.4950738,
   "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-xml-mrss": 1792496018.9925416,
   "https://www.dw.com/en/kenyan-cult-leader-paul-mackenzie-found-guilty-over-191-starvation-deaths/a-79706279?maca=en-rss-en-all-1573-xml-mrss": 1792426556.3507512,
@@ -33,6 +36,7 @@
   "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada": 1792496018.9925425,
   "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb": 1792411451.495072,
   "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb": 1792502939.7584198,
+  "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb": 1792583163.892044,
   "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright": 1792362961.446445,
   "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza": 1792415246.55008,
   "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum": 1792496018.9925392,
@@ -225,6 +229,30 @@
     "sending",
     "sweeping",
     "troops"
+   ]
+  },
+  {
+   "t": 1792583163.8920457,
+   "tokens": [
+    "appears",
+    "attack",
+    "australian",
+    "both",
+    "charged",
+    "condition",
+    "court",
+    "haines",
+    "helen",
+    "husband",
+    "independent",
+    "lawmaker",
+    "legs",
+    "loses",
+    "offences",
+    "stable",
+    "suspect",
+    "three",
+    "vehicle"
    ]
   }
  ]
