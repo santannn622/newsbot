@@ -1,18 +1,22 @@
 {
  "daily": {
-  "count": 3,
-  "date": "2026-10-20"
+  "count": 1,
+  "date": "2026-10-21"
  },
  "seen": {
+  "https://www.bbc.co.uk/sport/basketball/articles/c6vgj4g913wyo?at_medium=RSS&at_campaign=rss": 1792570207.2580347,
   "https://www.bbc.co.uk/sport/basketball/articles/cqe9lr3zr4k1o?at_medium=RSS&at_campaign=rss": 1792497158.9444633,
   "https://www.bbc.co.uk/sport/cricket/articles/c962ylv3l334o?at_medium=RSS&at_campaign=rss": 1792521108.5578814,
   "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss": 1792502854.9181507,
+  "https://www.cbssports.com/nba/news/lebron-james-76ers-debut-grades-knicks-banner-rings-nba-opening-night/": 1792570207.2580404,
   "https://www.cbssports.com/wnba/news/angel-reese-demanded-the-ball-dream-wnba-finals-history/": 1792497158.9444642,
   "https://www.skysports.com/cricket/news/12040/13601229/england-slump-to-defeat-against-pakistan-in-odi-tri-series-after-faltering-chasing-303-in-rawalpindi": 1792521108.55788,
   "https://www.skysports.com/nba/news/12040/13601194/wnba-finals-angel-reese-scores-30-points-16-rebounds-as-atlanta-dream-win-at-golden-state-valkyries-to-level-best-of-seven-series-1-1": 1792497158.944462,
   "https://www.skysports.com/watch/video/13601277/explained-why-was-there-tension-between-erik-ten-hag-and-cristiano-ronaldo": 1792502854.9181533,
+  "https://www.skysports.com/watch/video/13601769/philadelphia-76ers-new-york-knicks-nba-highlights": 1792570207.2580388,
   "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united": 1792502854.9181547,
   "https://www.theguardian.com/sport/2026/oct/19/angel-reese-double-double-dream-valkyries-wnba-finals-game-2": 1792497158.944465,
+  "https://www.theguardian.com/sport/2026/oct/20/nba-opening-night-2026-results-pistons-celtics-sixers-knicks-spurs-thunder": 1792570207.2580411,
   "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live": 1792521108.557882
  },
  "topics": [
@@ -84,6 +88,26 @@
     "start",
     "tri",
     "versus"
+   ]
+  },
+  {
+   "t": 1792570207.2580426,
+   "tokens": [
+    "76ers",
+    "beat",
+    "champions",
+    "debut",
+    "defeat",
+    "james",
+    "knicks",
+    "lebron",
+    "nba",
+    "night",
+    "opening",
+    "philadelphia",
+    "points",
+    "scores",
+    "york"
    ]
   }
  ]
