@@ -203,7 +203,15 @@ def mark_seen(st, c):
 # ------------------------------------------------------------------ Gemini
 def parse_json(txt):
     txt = re.sub(r"```json|```", "", txt).strip()
-    return json.loads(txt)
+    try:
+        return json.loads(txt)
+    except ValueError:
+        pass
+    start, end = txt.find("{"), txt.rfind("}")
+    if start == -1 or end <= start:
+        raise ValueError("no JSON object found")
+    body = re.sub(r",\s*([}\]])", r"\1", txt[start:end + 1])  # drop trailing commas
+    return json.loads(body, strict=False)  # strict=False allows raw line breaks inside strings
 
 
 def call_gemini(system, user_text, temperature=None, max_tokens=None):
@@ -215,7 +223,7 @@ def call_gemini(system, user_text, temperature=None, max_tokens=None):
         gen["maxOutputTokens"] = max_tokens
     body = {"systemInstruction": {"parts": [{"text": system}]},
             "contents": [{"role": "user", "parts": [{"text": user_text}]}], "generationConfig": gen}
-    last = ""
+    problems = []
     for m in MODELS:
         url = "https://generativelanguage.googleapis.com/v1beta/models/%s:generateContent" % m
         for attempt in range(3):
@@ -223,29 +231,34 @@ def call_gemini(system, user_text, temperature=None, max_tokens=None):
                 r = requests.post(url, headers={"x-goog-api-key": key, "Content-Type": "application/json"},
                                   json=body, timeout=180)
             except requests.RequestException as e:
-                last = "%s network error: %s" % (m, type(e).__name__)
+                problems.append("%s: network error (%s)" % (m, type(e).__name__))
                 time.sleep(8)
                 continue
             if r.status_code == 200:
-                parts = (r.json().get("candidates") or [{}])[0].get("content", {}).get("parts", [])
+                cand = (r.json().get("candidates") or [{}])[0]
+                parts = cand.get("content", {}).get("parts", [])
                 txt = "".join(p.get("text", "") for p in parts)
+                finish = cand.get("finishReason", "")
                 if txt.strip():
                     try:
                         data = parse_json(txt)
                         log("Gemini model used:", m)
                         return data
                     except ValueError:
-                        last = "%s returned invalid JSON" % m
+                        problems.append("%s: invalid JSON (%d characters, finish=%s)" % (m, len(txt), finish or "?"))
+                        if attempt == 0:  # one more try with the same model
+                            time.sleep(3)
+                            continue
                         break
-                last = "%s returned an empty reply" % m
+                problems.append("%s: empty reply (finish=%s)" % (m, finish or "?"))
                 break
-            last = "%s HTTP %s: %s" % (m, r.status_code, r.text[:160].replace(key, "***"))
+            problems.append("%s: HTTP %s %s" % (m, r.status_code, r.text[:110].replace(key, "***").replace("\n", " ")))
             if r.status_code in (500, 503):  # busy: wait and retry the same model
                 time.sleep(10 * (attempt + 1))
                 continue
             break  # 404 (retired), 429 (quota), 400: try the next model
-        log("Gemini problem, trying next model:", last)
-    raise RuntimeError("Gemini failed on every model. Last problem: " + last)
+        log("Gemini problem with %s, trying the next model" % m)
+    raise RuntimeError("Gemini failed on every model. " + " | ".join(problems[-6:]))
 
 
 # ------------------------------------------------------------------ Telegram
@@ -441,7 +454,7 @@ def main():
     except Exception as e:
         log("ERROR:", e)
         try:
-            tg_message("⚠️ The %s %s bot hit a problem:\n%s" % (TOPICS[topic]["label"], mode, str(e)[:500]))
+            tg_message("⚠️ The %s %s bot hit a problem:\n%s" % (TOPICS[topic]["label"], mode, str(e)[:900]))
         except Exception:
             pass
         sys.exit(1)
