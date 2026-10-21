@@ -1,7 +1,7 @@
 {
  "daily": {
-  "count": 3,
-  "date": "2026-10-20"
+  "count": 1,
+  "date": "2026-10-21"
  },
  "seen": {
   "https://news.sky.com/story/alberta-votes-to-remain-part-of-canada-13601218": 1792484962.2992697,
@@ -19,6 +19,7 @@
   "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-xml-mrss": 1792496018.9925416,
   "https://www.dw.com/en/kenyan-cult-leader-paul-mackenzie-found-guilty-over-191-starvation-deaths/a-79706279?maca=en-rss-en-all-1573-xml-mrss": 1792426556.3507512,
   "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-all-1573-xml-mrss": 1792415246.5500767,
+  "https://www.france24.com/en/africa/20261020-nigeria-records-first-ebola-case-as-outbreak-spreads-across-africa": 1792542377.7979589,
   "https://www.france24.com/en/americas/20261018-canada-military-base-fire-four-dead-39-hospitalised": 1792362961.4464467,
   "https://www.france24.com/en/americas/20261019-alberta-votes-to-remain-part-of-canada-in-victory-for-pm-carney": 1792484962.2992723,
   "https://www.france24.com/en/asia-pacific/20261020-driver-charged-over-targeted-car-attack-on-australian-lawmaker-helen-haines": 1792502939.7584205,
@@ -26,12 +27,14 @@
   "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base": 1792362961.446448,
   "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured": 1792411451.4950702,
   "https://www.npr.org/2026/10/19/nx-s1-6005810/alberta-voters-decide-whether-to-take-a-step-toward-separating-from-canada": 1792484962.2992713,
+  "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case": 1792542377.7979605,
   "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada": 1792496018.9925425,
   "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb": 1792411451.495072,
   "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb": 1792502939.7584198,
   "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright": 1792362961.446445,
   "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza": 1792415246.55008,
-  "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum": 1792496018.9925392
+  "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum": 1792496018.9925392,
+  "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest": 1792542377.797957
  },
  "topics": [
   {
@@ -179,6 +182,28 @@
     "office",
     "outside",
     "remains"
+   ]
+  },
+  {
+   "t": 1792542377.7979617,
+   "tokens": [
+    "africa",
+    "capital",
+    "case",
+    "confirmed",
+    "confirms",
+    "country",
+    "detected",
+    "ebola",
+    "most",
+    "nigeria",
+    "outbreak",
+    "populous",
+    "spreads",
+    "travelled",
+    "uganda",
+    "western",
+    "woman"
    ]
   }
  ]
