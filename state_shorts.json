@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 1,
+  "count": 2,
   "date": "2026-10-21"
  },
  "seen": {
@@ -9,6 +9,7 @@
   "https://news.sky.com/story/cult-leader-found-guilty-of-ordered-followers-to-starve-their-children-to-death-13600891": 1792426556.350752,
   "https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming?traffic_source=rss": 1792411451.495073,
   "https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss": 1792415246.5500786,
+  "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss": 1792570166.5287006,
   "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss": 1792496018.9925358,
   "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss": 1792502939.7584162,
   "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss": 1792502939.7584188,
@@ -23,6 +24,7 @@
   "https://www.france24.com/en/americas/20261018-canada-military-base-fire-four-dead-39-hospitalised": 1792362961.4464467,
   "https://www.france24.com/en/americas/20261019-alberta-votes-to-remain-part-of-canada-in-victory-for-pm-carney": 1792484962.2992723,
   "https://www.france24.com/en/asia-pacific/20261020-driver-charged-over-targeted-car-attack-on-australian-lawmaker-helen-haines": 1792502939.7584205,
+  "https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers": 1792570166.5287035,
   "https://www.france24.com/en/middle-east/20261019-world-food-programme-to-end-aid-for-half-a-million-in-gaza-due-to-funding-shortfall": 1792415246.5500808,
   "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base": 1792362961.446448,
   "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured": 1792411451.4950702,
@@ -34,6 +36,7 @@
   "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright": 1792362961.446445,
   "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza": 1792415246.55008,
   "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum": 1792496018.9925392,
+  "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe": 1792570166.5287044,
   "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest": 1792542377.797957
  },
  "topics": [
@@ -204,6 +207,24 @@
     "uganda",
     "western",
     "woman"
+   ]
+  },
+  {
+   "t": 1792570166.5287058,
+   "tokens": [
+    "500",
+    "approves",
+    "clashes",
+    "government",
+    "italy",
+    "measures",
+    "milan",
+    "protests",
+    "response",
+    "security",
+    "sending",
+    "sweeping",
+    "troops"
    ]
   }
  ]
