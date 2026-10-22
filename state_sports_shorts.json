@@ -1,12 +1,13 @@
 {
  "daily": {
-  "count": 2,
+  "count": 3,
   "date": "2026-10-22"
  },
  "seen": {
   "https://www.bbc.co.uk/sport/basketball/articles/c6vgj4g913wyo?at_medium=RSS&at_campaign=rss": 1792570207.2580347,
   "https://www.bbc.co.uk/sport/basketball/articles/cqe9lr3zr4k1o?at_medium=RSS&at_campaign=rss": 1792497158.9444633,
   "https://www.bbc.co.uk/sport/cricket/articles/c962ylv3l334o?at_medium=RSS&at_campaign=rss": 1792521108.5578814,
+  "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss": 1792678069.692551,
   "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss": 1792502854.9181507,
   "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss": 1792627409.5532627,
   "https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o?at_medium=RSS&at_campaign=rss": 1792590603.1332307,
@@ -31,7 +32,8 @@
   "https://www.theguardian.com/sport/2026/oct/19/angel-reese-double-double-dream-valkyries-wnba-finals-game-2": 1792497158.944465,
   "https://www.theguardian.com/sport/2026/oct/20/nba-opening-night-2026-results-pistons-celtics-sixers-knicks-spurs-thunder": 1792570207.2580411,
   "https://www.theguardian.com/sport/2026/oct/21/red-roses-drop-ellie-kildunne-bench-canada-rematch-as-mitchell-seeks-england-reset": 1792607906.5514464,
-  "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live": 1792521108.557882
+  "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live": 1792521108.557882,
+  "https://www.theguardian.com/sport/live/2026/oct/22/sri-lanka-v-england-tri-series-cricket-one-day-international-live": 1792678069.6925492
  },
  "topics": [
   {
@@ -225,6 +227,36 @@
     "united",
     "utd",
     "warnock"
+   ]
+  },
+  {
+   "t": 1792678069.6925528,
+   "tokens": [
+    "202",
+    "3rd",
+    "ballon",
+    "banton",
+    "breaking",
+    "brook",
+    "cricket",
+    "does",
+    "duckett",
+    "email",
+    "england",
+    "harry",
+    "history",
+    "hits",
+    "lanka",
+    "live",
+    "makes",
+    "men",
+    "need",
+    "odi",
+    "record",
+    "series",
+    "sri",
+    "tom",
+    "tri"
    ]
   }
  ]
