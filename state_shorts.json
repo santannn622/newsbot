@@ -1,18 +1,20 @@
 {
  "daily": {
-  "count": 1,
+  "count": 2,
   "date": "2026-10-22"
  },
  "seen": {
   "https://news.sky.com/story/alberta-votes-to-remain-part-of-canada-13601218": 1792484962.2992697,
   "https://news.sky.com/story/australian-mp-attacked-outside-her-office-says-pm-13600871": 1792411451.4950745,
   "https://news.sky.com/story/cult-leader-found-guilty-of-ordered-followers-to-starve-their-children-to-death-13600891": 1792426556.350752,
+  "https://news.sky.com/story/north-korea-plans-to-resume-propaganda-broadcasts-along-border-with-south-korea-13602125": 1792662476.562423,
   "https://news.sky.com/story/pope-leos-doctors-say-tests-show-he-needs-no-further-treatment-for-lung-cancer-13602031": 1792627819.9354222,
   "https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming?traffic_source=rss": 1792411451.495073,
   "https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss": 1792415246.5500786,
   "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss": 1792583163.8920383,
   "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss": 1792570166.5287006,
   "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss": 1792627819.9354193,
+  "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss": 1792662476.5624247,
   "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss": 1792496018.9925358,
   "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss": 1792502939.7584162,
   "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss": 1792502939.7584188,
@@ -39,6 +41,7 @@
   "https://www.npr.org/2026/10/19/nx-s1-6005810/alberta-voters-decide-whether-to-take-a-step-toward-separating-from-canada": 1792484962.2992713,
   "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case": 1792542377.7979605,
   "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada": 1792496018.9925425,
+  "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts": 1792662476.5624204,
   "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb": 1792411451.495072,
   "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb": 1792502939.7584198,
   "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb": 1792583163.892044,
@@ -46,7 +49,8 @@
   "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza": 1792415246.55008,
   "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum": 1792496018.9925392,
   "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe": 1792570166.5287044,
-  "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest": 1792542377.797957
+  "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest": 1792542377.797957,
+  "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea": 1792662476.5624254
  },
  "topics": [
   {
@@ -256,6 +260,31 @@
     "treatment",
     "vatican",
     "week"
+   ]
+  },
+  {
+   "t": 1792662476.5624268,
+   "tokens": [
+    "across",
+    "along",
+    "anti",
+    "armed",
+    "border",
+    "broadcasts",
+    "heavily",
+    "jong",
+    "kim",
+    "korea",
+    "leader",
+    "north",
+    "plans",
+    "propaganda",
+    "psychological",
+    "resume",
+    "reviving",
+    "seoul",
+    "sister",
+    "south"
    ]
   }
  ]
