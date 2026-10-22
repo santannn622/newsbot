@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 1,
+  "count": 2,
   "date": "2026-10-22"
  },
  "seen": {
@@ -10,6 +10,7 @@
   "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss": 1792502854.9181507,
   "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss": 1792627409.5532627,
   "https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o?at_medium=RSS&at_campaign=rss": 1792590603.1332307,
+  "https://www.bbc.co.uk/sport/football/videos/c8040gdrdlwwo?at_medium=RSS&at_campaign=rss": 1792627632.0456765,
   "https://www.bbc.co.uk/sport/rugby-union/articles/c3ewe42q4jqzo?at_medium=RSS&at_campaign=rss": 1792607906.5514455,
   "https://www.cbssports.com/nba/news/lebron-james-76ers-debut-grades-knicks-banner-rings-nba-opening-night/": 1792570207.2580404,
   "https://www.cbssports.com/soccer/news/harry-kane-shows-arsenal-what-theyre-missing-at-striker-bayern-arsenal-champions-league/": 1792627409.553267,
@@ -18,6 +19,7 @@
   "https://www.skysports.com/cricket/news/12040/13601229/england-slump-to-defeat-against-pakistan-in-odi-tri-series-after-faltering-chasing-303-in-rawalpindi": 1792521108.55788,
   "https://www.skysports.com/football/bayern-munich-vs-arsenal/report/577643": 1792627409.5532677,
   "https://www.skysports.com/football/news/12040/13601843/khvicha-kvaratskhelia-psg-forward-set-for-surgery-after-rupturing-acl-in-champions-league-win-over-barcelona": 1792590603.1332316,
+  "https://www.skysports.com/football/news/12040/13602045/manchester-united-bruno-fernandes-criticises-coaches-as-michael-carrick-questions-players-after-champions-league-loss-to-como": 1792627632.0456789,
   "https://www.skysports.com/nba/news/12040/13601194/wnba-finals-angel-reese-scores-30-points-16-rebounds-as-atlanta-dream-win-at-golden-state-valkyries-to-level-best-of-seven-series-1-1": 1792497158.944462,
   "https://www.skysports.com/rugby-union/news/12040/13601856/englands-red-roses-ellie-kildunne-benched-as-part-of-four-changes-to-starting-xv-in-search-for-victory-in-canada-rematch": 1792607906.551443,
   "https://www.skysports.com/watch/video/13601277/explained-why-was-there-tension-between-erik-ten-hag-and-cristiano-ronaldo": 1792502854.9181533,
@@ -25,6 +27,7 @@
   "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united": 1792502854.9181547,
   "https://www.theguardian.com/football/2026/oct/21/khvicha-kvaratskhelia-acl-injury-psg-ousmane-dembele-marquinhos": 1792590603.1332326,
   "https://www.theguardian.com/football/live/2026/oct/21/bayern-munich-v-arsenal-champions-league-live": 1792627409.5532684,
+  "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live": 1792627632.0456798,
   "https://www.theguardian.com/sport/2026/oct/19/angel-reese-double-double-dream-valkyries-wnba-finals-game-2": 1792497158.944465,
   "https://www.theguardian.com/sport/2026/oct/20/nba-opening-night-2026-results-pistons-celtics-sixers-knicks-spurs-thunder": 1792570207.2580411,
   "https://www.theguardian.com/sport/2026/oct/21/red-roses-drop-ellie-kildunne-bench-canada-rematch-as-mitchell-seeks-england-reset": 1792607906.5514464,
@@ -194,6 +197,34 @@
     "team",
     "underlines",
     "win"
+   ]
+  },
+  {
+   "t": 1792627632.0456815,
+   "tokens": [
+    "analyse",
+    "champions",
+    "como",
+    "day",
+    "defeat",
+    "discuss",
+    "display",
+    "enough",
+    "good",
+    "league",
+    "man",
+    "manchester",
+    "match",
+    "midfielder",
+    "nedum",
+    "onuoha",
+    "performance",
+    "pundits",
+    "simply",
+    "stephen",
+    "united",
+    "utd",
+    "warnock"
    ]
   }
  ]
