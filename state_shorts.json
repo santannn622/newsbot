@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 2,
+  "count": 3,
   "date": "2026-10-22"
  },
  "seen": {
@@ -14,6 +14,7 @@
   "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss": 1792583163.8920383,
   "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss": 1792570166.5287006,
   "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss": 1792627819.9354193,
+  "https://www.aljazeera.com/news/2026/10/22/facebooks-wrongdoing-why-has-meta-been-fined-25bn-in-new-mexico?traffic_source=rss": 1792669761.5418842,
   "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss": 1792662476.5624247,
   "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss": 1792496018.9925358,
   "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss": 1792502939.7584162,
@@ -22,11 +23,13 @@
   "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss": 1792583163.8920434,
   "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss": 1792415246.5500815,
   "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss": 1792362961.4464474,
+  "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss": 1792669761.5418866,
   "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss": 1792627819.9354215,
   "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-xml-mrss": 1792583163.8920417,
   "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-xml-mrss": 1792411451.4950738,
   "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-xml-mrss": 1792496018.9925416,
   "https://www.dw.com/en/kenyan-cult-leader-paul-mackenzie-found-guilty-over-191-starvation-deaths/a-79706279?maca=en-rss-en-all-1573-xml-mrss": 1792426556.3507512,
+  "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-xml-mrss": 1792669761.5418878,
   "https://www.dw.com/en/pope-leo-will-not-need-further-cancer-treatment-vatican/a-79727154?maca=en-rss-en-all-1573-xml-mrss": 1792627819.9354177,
   "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-all-1573-xml-mrss": 1792415246.5500767,
   "https://www.france24.com/en/africa/20261020-nigeria-records-first-ebola-case-as-outbreak-spreads-across-africa": 1792542377.7979589,
@@ -36,6 +39,7 @@
   "https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers": 1792570166.5287035,
   "https://www.france24.com/en/europe/20261021-pope-leo-doctors-treatment-lung-cancer": 1792627819.9354205,
   "https://www.france24.com/en/middle-east/20261019-world-food-programme-to-end-aid-for-half-a-million-in-gaza-due-to-funding-shortfall": 1792415246.5500808,
+  "https://www.france24.com/en/technology/20261021-meta-fined-25-billion-new-mexico-cambridge-analytica-scandal": 1792669761.5418873,
   "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base": 1792362961.446448,
   "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured": 1792411451.4950702,
   "https://www.npr.org/2026/10/19/nx-s1-6005810/alberta-voters-decide-whether-to-take-a-step-toward-separating-from-canada": 1792484962.2992713,
@@ -285,6 +289,29 @@
     "seoul",
     "sister",
     "south"
+   ]
+  },
+  {
+   "t": 1792669761.5418894,
+   "tokens": [
+    "25bn",
+    "accused",
+    "analytica",
+    "cambridge",
+    "data",
+    "facebook",
+    "fined",
+    "giant",
+    "linked",
+    "meta",
+    "mexico",
+    "misleading",
+    "privacy",
+    "regarding",
+    "scandal",
+    "tech",
+    "users",
+    "wrongdoing"
    ]
   }
  ]
