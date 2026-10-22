@@ -1,16 +1,24 @@
 {
  "daily": {
   "count": 0,
-  "date": "2026-10-21"
+  "date": "2026-10-22"
  },
  "seen": {
+  "https://sports.yahoo.com/articles/antonelli-just-fun-aims-title-205544311.html": 1792707509.709271,
   "https://sports.yahoo.com/articles/carrick-wants-more-clean-sheets-212740849.html": 1792534542.7865946,
+  "https://sports.yahoo.com/articles/counties-interested-anderson-lancs-exit-214756606.html": 1792707509.7092755,
   "https://sports.yahoo.com/articles/fernandes-rounds-carrick-man-utd-195936574.html": 1792621214.5076885,
+  "https://sports.yahoo.com/articles/humphries-withdraws-european-championship-141616735.html": 1792707509.7092412,
   "https://sports.yahoo.com/articles/kurt-warner-pinpoints-1-major-220410520.html": 1792534542.7865827,
   "https://sports.yahoo.com/articles/man-city-boss-maresca-backs-214000492.html": 1792533961.7556264,
+  "https://sports.yahoo.com/articles/man-utd-chief-keen-howe-203844664.html": 1792707509.7092493,
+  "https://sports.yahoo.com/articles/watch-james-madison-vs-appalachian-215000256.html": 1792707509.7092557,
   "https://sports.yahoo.com/articles/why-nfl-wont-punishing-eagles-214332185.html": 1792533961.7556005,
   "https://sports.yahoo.com/mens-college-basketball/breaking-news/article/longtime-cincinnati-and-west-virginia-mens-basketball-coach-bob-huggins-dealing-with-progressive-cognitive-condition-203927575.html": 1792621214.5077145,
   "https://www.bbc.co.uk/sport/cricket/articles/c962ylv3l334o?at_medium=RSS&at_campaign=rss": 1792533961.755614,
+  "https://www.bbc.co.uk/sport/cricket/articles/cm8xz10571lro?at_medium=RSS&at_campaign=rss": 1792707509.709276,
+  "https://www.bbc.co.uk/sport/darts/articles/ck240lypjqvno?at_medium=RSS&at_campaign=rss": 1792707509.7092392,
+  "https://www.bbc.co.uk/sport/football/articles/c63elp2kz4exo?at_medium=RSS&at_campaign=rss": 1792707509.70925,
   "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss": 1792533961.7556357,
   "https://www.bbc.co.uk/sport/football/articles/cje362v35175o?at_medium=RSS&at_campaign=rss": 1792534542.7865953,
   "https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro?at_medium=RSS&at_campaign=rss": 1792534542.7866123,
@@ -19,10 +27,13 @@
   "https://www.bbc.co.uk/sport/football/articles/cwdr8zxp884mo?at_medium=RSS&at_campaign=rss": 1792621214.507706,
   "https://www.bbc.co.uk/sport/football/videos/cmj47yxry4k9o?at_medium=RSS&at_campaign=rss": 1792621214.50771,
   "https://www.bbc.co.uk/sport/football/videos/crx23nx0vp8jo?at_medium=RSS&at_campaign=rss": 1792621214.5077,
+  "https://www.bbc.co.uk/sport/formula1/articles/cjr4y3y9zy2zo?at_medium=RSS&at_campaign=rss": 1792707509.7092717,
+  "https://www.cbssports.com/betting/news/james-madison-vs-appalachian-state-cfb-picks-upset-loss-thursday-would-derail-dukes-playoff-hopes/": 1792707509.7092662,
   "https://www.cbssports.com/college-basketball/news/bob-huggins-west-virginia-cincinnati-coach-progressive-cognitive-condition/": 1792621214.507714,
   "https://www.cbssports.com/nfl/news/eagles-will-not-be-punished-jalen-hurts-blood-clots-situation/": 1792533961.7556024,
   "https://www.cbssports.com/nfl/news/rams-matthew-stafford-verge-tying-nfl-record-most-qb-losses/": 1792534542.7865849,
   "https://www.skysports.com/cricket/news/12040/13601229/england-slump-to-defeat-against-pakistan-in-odi-tri-series-after-faltering-chasing-303-in-rawalpindi": 1792533961.7556138,
+  "https://www.skysports.com/darts/news/12040/13602205/luke-humphries-withdraws-from-european-championship-darts-in-dortmund-due-to-gastroenteritis": 1792707509.7092416,
   "https://www.skysports.com/football/aston-villa-vs-viking/report/577642": 1792621214.5077095,
   "https://www.skysports.com/football/bayern-munich-vs-arsenal/report/577643": 1792621214.5076985,
   "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two": 1792621214.5077055,
@@ -415,6 +426,119 @@
     "statement",
     "virginia",
     "west"
+   ]
+  },
+  {
+   "t": 1792707509.7092428,
+   "tokens": [
+    "because",
+    "championship",
+    "darter",
+    "european",
+    "gastroenteritis",
+    "germany",
+    "humphries",
+    "luke",
+    "nine",
+    "number",
+    "opening",
+    "pulls",
+    "throwing",
+    "withdraws",
+    "woodhouse",
+    "world"
+   ]
+  },
+  {
+   "t": 1792707509.7092514,
+   "tokens": [
+    "among",
+    "antonio",
+    "carrick",
+    "chief",
+    "conte",
+    "eddie",
+    "emery",
+    "friday",
+    "gossip",
+    "howe",
+    "julian",
+    "keen",
+    "linked",
+    "man",
+    "manager",
+    "manchester",
+    "michael",
+    "nagelsmann",
+    "others",
+    "part",
+    "unai",
+    "united",
+    "utd",
+    "ways"
+   ]
+  },
+  {
+   "t": 1792707509.7092671,
+   "tokens": [
+    "appalachian",
+    "belt",
+    "channel",
+    "clash",
+    "college",
+    "conference",
+    "football",
+    "heading",
+    "james",
+    "leader",
+    "live",
+    "madison",
+    "ncaa",
+    "only",
+    "side",
+    "state",
+    "stream",
+    "sun",
+    "thursday",
+    "watch"
+   ]
+  },
+  {
+   "t": 1792707509.7092724,
+   "tokens": [
+    "aims",
+    "antonelli",
+    "brink",
+    "formula",
+    "fun",
+    "grand",
+    "intends",
+    "kimi",
+    "prix",
+    "stands",
+    "states",
+    "title",
+    "united"
+   ]
+  },
+  {
+   "t": 1792707509.7092764,
+   "tokens": [
+    "anderson",
+    "career",
+    "contract",
+    "counties",
+    "exit",
+    "extend",
+    "given",
+    "interested",
+    "james",
+    "lancashire",
+    "lancs",
+    "legendary",
+    "options",
+    "playing",
+    "told"
    ]
   }
  ]
