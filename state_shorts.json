@@ -1,7 +1,7 @@
 {
  "daily": {
-  "count": 3,
-  "date": "2026-10-22"
+  "count": 1,
+  "date": "2026-10-23"
  },
  "seen": {
   "https://news.sky.com/story/alberta-votes-to-remain-part-of-canada-13601218": 1792484962.2992697,
@@ -22,9 +22,9 @@
   "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss": 1792426556.3507497,
   "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss": 1792583163.8920434,
   "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss": 1792415246.5500815,
-  "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss": 1792362961.4464474,
   "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss": 1792669761.5418866,
   "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss": 1792627819.9354215,
+  "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss": 1792743634.964028,
   "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-xml-mrss": 1792583163.8920417,
   "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-xml-mrss": 1792411451.4950738,
   "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-xml-mrss": 1792496018.9925416,
@@ -33,14 +33,13 @@
   "https://www.dw.com/en/pope-leo-will-not-need-further-cancer-treatment-vatican/a-79727154?maca=en-rss-en-all-1573-xml-mrss": 1792627819.9354177,
   "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-all-1573-xml-mrss": 1792415246.5500767,
   "https://www.france24.com/en/africa/20261020-nigeria-records-first-ebola-case-as-outbreak-spreads-across-africa": 1792542377.7979589,
-  "https://www.france24.com/en/americas/20261018-canada-military-base-fire-four-dead-39-hospitalised": 1792362961.4464467,
   "https://www.france24.com/en/americas/20261019-alberta-votes-to-remain-part-of-canada-in-victory-for-pm-carney": 1792484962.2992723,
   "https://www.france24.com/en/asia-pacific/20261020-driver-charged-over-targeted-car-attack-on-australian-lawmaker-helen-haines": 1792502939.7584205,
   "https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers": 1792570166.5287035,
   "https://www.france24.com/en/europe/20261021-pope-leo-doctors-treatment-lung-cancer": 1792627819.9354205,
   "https://www.france24.com/en/middle-east/20261019-world-food-programme-to-end-aid-for-half-a-million-in-gaza-due-to-funding-shortfall": 1792415246.5500808,
+  "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin": 1792743634.964026,
   "https://www.france24.com/en/technology/20261021-meta-fined-25-billion-new-mexico-cambridge-analytica-scandal": 1792669761.5418873,
-  "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base": 1792362961.446448,
   "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured": 1792411451.4950702,
   "https://www.npr.org/2026/10/19/nx-s1-6005810/alberta-voters-decide-whether-to-take-a-step-toward-separating-from-canada": 1792484962.2992713,
   "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case": 1792542377.7979605,
@@ -49,7 +48,6 @@
   "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb": 1792411451.495072,
   "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb": 1792502939.7584198,
   "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb": 1792583163.892044,
-  "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright": 1792362961.446445,
   "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza": 1792415246.55008,
   "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum": 1792496018.9925392,
   "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe": 1792570166.5287044,
@@ -57,76 +55,6 @@
   "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea": 1792662476.5624254
  },
  "topics": [
-  {
-   "t": 1792411451.4950764,
-   "tokens": [
-    "accident",
-    "albanese",
-    "anthony",
-    "apparent",
-    "attack",
-    "australian",
-    "car",
-    "critically",
-    "deliberate",
-    "driver",
-    "federal",
-    "hit",
-    "independent",
-    "injured",
-    "injuring",
-    "lawmaker",
-    "minister",
-    "monday",
-    "prime"
-   ]
-  },
-  {
-   "t": 1792415246.5500824,
-   "tokens": [
-    "000",
-    "500",
-    "aid",
-    "cuts",
-    "facing",
-    "food",
-    "forced",
-    "funding",
-    "gaza",
-    "necessary",
-    "palestinians",
-    "program",
-    "reduce",
-    "shortages",
-    "thirds",
-    "world"
-   ]
-  },
-  {
-   "t": 1792426556.3507535,
-   "tokens": [
-    "191",
-    "all",
-    "charges",
-    "children",
-    "cult",
-    "found",
-    "guilty",
-    "kenya",
-    "leader",
-    "mackenzie",
-    "murder",
-    "murders",
-    "parents",
-    "pastor",
-    "paul",
-    "proclaimed",
-    "self",
-    "starve",
-    "them",
-    "told"
-   ]
-  },
   {
    "t": 1792484962.299274,
    "tokens": [
@@ -312,6 +240,28 @@
     "tech",
     "users",
     "wrongdoing"
+   ]
+  },
+  {
+   "t": 1792743634.9640298,
+   "tokens": [
+    "deal",
+    "final",
+    "parameters",
+    "peace",
+    "plans",
+    "putin",
+    "ready",
+    "resume",
+    "russia",
+    "security",
+    "states",
+    "talks",
+    "three",
+    "truce",
+    "ukraine",
+    "united",
+    "way"
    ]
   }
  ]
