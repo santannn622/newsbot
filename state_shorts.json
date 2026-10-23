@@ -1,15 +1,14 @@
 {
  "daily": {
-  "count": 1,
+  "count": 2,
   "date": "2026-10-23"
  },
  "seen": {
   "https://news.sky.com/story/alberta-votes-to-remain-part-of-canada-13601218": 1792484962.2992697,
-  "https://news.sky.com/story/australian-mp-attacked-outside-her-office-says-pm-13600871": 1792411451.4950745,
   "https://news.sky.com/story/cult-leader-found-guilty-of-ordered-followers-to-starve-their-children-to-death-13600891": 1792426556.350752,
+  "https://news.sky.com/story/israel-orders-army-to-prepare-to-fully-close-west-bank-after-attack-13602577": 1792757764.5622668,
   "https://news.sky.com/story/north-korea-plans-to-resume-propaganda-broadcasts-along-border-with-south-korea-13602125": 1792662476.562423,
   "https://news.sky.com/story/pope-leos-doctors-say-tests-show-he-needs-no-further-treatment-for-lung-cancer-13602031": 1792627819.9354222,
-  "https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming?traffic_source=rss": 1792411451.495073,
   "https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss": 1792415246.5500786,
   "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss": 1792583163.8920383,
   "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss": 1792570166.5287006,
@@ -18,6 +17,7 @@
   "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss": 1792662476.5624247,
   "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss": 1792496018.9925358,
   "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss": 1792502939.7584162,
+  "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss": 1792757764.5622652,
   "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss": 1792502939.7584188,
   "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss": 1792426556.3507497,
   "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss": 1792583163.8920434,
@@ -26,7 +26,6 @@
   "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss": 1792627819.9354215,
   "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss": 1792743634.964028,
   "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-xml-mrss": 1792583163.8920417,
-  "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-xml-mrss": 1792411451.4950738,
   "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-xml-mrss": 1792496018.9925416,
   "https://www.dw.com/en/kenyan-cult-leader-paul-mackenzie-found-guilty-over-191-starvation-deaths/a-79706279?maca=en-rss-en-all-1573-xml-mrss": 1792426556.3507512,
   "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-xml-mrss": 1792669761.5418878,
@@ -38,14 +37,14 @@
   "https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers": 1792570166.5287035,
   "https://www.france24.com/en/europe/20261021-pope-leo-doctors-treatment-lung-cancer": 1792627819.9354205,
   "https://www.france24.com/en/middle-east/20261019-world-food-programme-to-end-aid-for-half-a-million-in-gaza-due-to-funding-shortfall": 1792415246.5500808,
+  "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack": 1792757764.5622659,
   "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin": 1792743634.964026,
   "https://www.france24.com/en/technology/20261021-meta-fined-25-billion-new-mexico-cambridge-analytica-scandal": 1792669761.5418873,
-  "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured": 1792411451.4950702,
   "https://www.npr.org/2026/10/19/nx-s1-6005810/alberta-voters-decide-whether-to-take-a-step-toward-separating-from-canada": 1792484962.2992713,
   "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case": 1792542377.7979605,
   "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada": 1792496018.9925425,
   "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts": 1792662476.5624204,
-  "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb": 1792411451.495072,
+  "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank": 1792757764.5622625,
   "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb": 1792502939.7584198,
   "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb": 1792583163.892044,
   "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza": 1792415246.55008,
@@ -55,40 +54,6 @@
   "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea": 1792662476.5624254
  },
  "topics": [
-  {
-   "t": 1792484962.299274,
-   "tokens": [
-    "alberta",
-    "canada",
-    "ever",
-    "first",
-    "part",
-    "province",
-    "referendum",
-    "remain",
-    "separation",
-    "voted",
-    "votes"
-   ]
-  },
-  {
-   "t": 1792496018.992544,
-   "tokens": [
-    "alberta",
-    "albertans",
-    "canada",
-    "canadian",
-    "hold",
-    "independence",
-    "most",
-    "proposal",
-    "province",
-    "referendum",
-    "reject",
-    "rejected",
-    "voters"
-   ]
-  },
   {
    "t": 1792502939.7584224,
    "tokens": [
@@ -262,6 +227,31 @@
     "ukraine",
     "united",
     "way"
+   ]
+  },
+  {
+   "t": 1792757764.5622683,
+   "tokens": [
+    "alleged",
+    "attack",
+    "bank",
+    "behind",
+    "city",
+    "closure",
+    "hebron",
+    "israel",
+    "israeli",
+    "kill",
+    "killed",
+    "launched",
+    "men",
+    "military",
+    "near",
+    "occupied",
+    "orders",
+    "shot",
+    "soldiers",
+    "west"
    ]
   }
  ]
