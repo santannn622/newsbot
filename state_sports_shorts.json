@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 1,
+  "count": 2,
   "date": "2026-10-23"
  },
  "seen": {
@@ -10,6 +10,7 @@
   "https://www.bbc.co.uk/sport/cricket/articles/c962ylv3l334o?at_medium=RSS&at_campaign=rss": 1792521108.5578814,
   "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss": 1792678069.692551,
   "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss": 1792502854.9181507,
+  "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&at_campaign=rss": 1792779617.7921524,
   "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss": 1792627409.5532627,
   "https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o?at_medium=RSS&at_campaign=rss": 1792590603.1332307,
   "https://www.bbc.co.uk/sport/football/videos/c8040gdrdlwwo?at_medium=RSS&at_campaign=rss": 1792627632.0456765,
@@ -18,17 +19,20 @@
   "https://www.cbssports.com/nba/news/shai-gilgeous-alexander-20-point-streak-record-may-never-be-broken/": 1792761999.135103,
   "https://www.cbssports.com/soccer/news/harry-kane-shows-arsenal-what-theyre-missing-at-striker-bayern-arsenal-champions-league/": 1792627409.553267,
   "https://www.cbssports.com/soccer/news/psg-star-khvicha-kvaratskhelia-injury-ruptured-acl-2026/": 1792590603.1332288,
+  "https://www.cbssports.com/soccer/news/vincent-kompany-collapse-bayern-munich/": 1792779617.7921479,
   "https://www.cbssports.com/wnba/news/angel-reese-demanded-the-ball-dream-wnba-finals-history/": 1792497158.9444642,
   "https://www.skysports.com/cricket/news/12040/13601229/england-slump-to-defeat-against-pakistan-in-odi-tri-series-after-faltering-chasing-303-in-rawalpindi": 1792521108.55788,
   "https://www.skysports.com/football/bayern-munich-vs-arsenal/report/577643": 1792627409.5532677,
   "https://www.skysports.com/football/news/12040/13601843/khvicha-kvaratskhelia-psg-forward-set-for-surgery-after-rupturing-acl-in-champions-league-win-over-barcelona": 1792590603.1332316,
   "https://www.skysports.com/football/news/12040/13602045/manchester-united-bruno-fernandes-criticises-coaches-as-michael-carrick-questions-players-after-champions-league-loss-to-como": 1792627632.0456789,
+  "https://www.skysports.com/football/news/12040/13602757/vincent-kompany-bayern-munich-boss-taken-to-hospital-after-collapsing-at-training-ground": 1792779617.7921503,
   "https://www.skysports.com/nba/news/12040/13601194/wnba-finals-angel-reese-scores-30-points-16-rebounds-as-atlanta-dream-win-at-golden-state-valkyries-to-level-best-of-seven-series-1-1": 1792497158.944462,
   "https://www.skysports.com/rugby-union/news/12040/13601856/englands-red-roses-ellie-kildunne-benched-as-part-of-four-changes-to-starting-xv-in-search-for-victory-in-canada-rematch": 1792607906.551443,
   "https://www.skysports.com/watch/video/13601277/explained-why-was-there-tension-between-erik-ten-hag-and-cristiano-ronaldo": 1792502854.9181533,
   "https://www.skysports.com/watch/video/13601769/philadelphia-76ers-new-york-knicks-nba-highlights": 1792570207.2580388,
   "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united": 1792502854.9181547,
   "https://www.theguardian.com/football/2026/oct/21/khvicha-kvaratskhelia-acl-injury-psg-ousmane-dembele-marquinhos": 1792590603.1332326,
+  "https://www.theguardian.com/football/2026/oct/23/vincent-kompany-hospital-collapsing-bayern-munich-training": 1792779617.7921515,
   "https://www.theguardian.com/football/live/2026/oct/21/bayern-munich-v-arsenal-champions-league-live": 1792627409.5532684,
   "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live": 1792627632.0456798,
   "https://www.theguardian.com/sport/2026/oct/19/angel-reese-double-double-dream-valkyries-wnba-finals-game-2": 1792497158.944465,
@@ -38,28 +42,6 @@
   "https://www.theguardian.com/sport/live/2026/oct/22/sri-lanka-v-england-tri-series-cricket-one-day-international-live": 1792678069.6925492
  },
  "topics": [
-  {
-   "t": 1792502854.9181566,
-   "tokens": [
-    "cristiano",
-    "down",
-    "during",
-    "dutchman",
-    "erik",
-    "former",
-    "hag",
-    "let",
-    "manager",
-    "manchester",
-    "old",
-    "ronaldo",
-    "spell",
-    "team",
-    "ten",
-    "trafford",
-    "united"
-   ]
-  },
   {
    "t": 1792521108.5578828,
    "tokens": [
@@ -251,6 +233,29 @@
     "sga",
     "shai",
     "streak"
+   ]
+  },
+  {
+   "t": 1792779617.7921538,
+   "tokens": [
+    "bayern",
+    "club",
+    "collapsing",
+    "did",
+    "evaluation",
+    "ground",
+    "hospital",
+    "hospitalized",
+    "kompany",
+    "manager",
+    "munich",
+    "offer",
+    "status",
+    "taken",
+    "training",
+    "update",
+    "vincent",
+    "yet"
    ]
   }
  ]
