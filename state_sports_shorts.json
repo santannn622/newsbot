@@ -1,9 +1,10 @@
 {
  "daily": {
-  "count": 3,
-  "date": "2026-10-22"
+  "count": 1,
+  "date": "2026-10-23"
  },
  "seen": {
+  "https://sports.yahoo.com/articles/shai-gilgeous-alexander-ends-20-130207353.html": 1792761999.1351008,
   "https://www.bbc.co.uk/sport/basketball/articles/c6vgj4g913wyo?at_medium=RSS&at_campaign=rss": 1792570207.2580347,
   "https://www.bbc.co.uk/sport/basketball/articles/cqe9lr3zr4k1o?at_medium=RSS&at_campaign=rss": 1792497158.9444633,
   "https://www.bbc.co.uk/sport/cricket/articles/c962ylv3l334o?at_medium=RSS&at_campaign=rss": 1792521108.5578814,
@@ -14,6 +15,7 @@
   "https://www.bbc.co.uk/sport/football/videos/c8040gdrdlwwo?at_medium=RSS&at_campaign=rss": 1792627632.0456765,
   "https://www.bbc.co.uk/sport/rugby-union/articles/c3ewe42q4jqzo?at_medium=RSS&at_campaign=rss": 1792607906.5514455,
   "https://www.cbssports.com/nba/news/lebron-james-76ers-debut-grades-knicks-banner-rings-nba-opening-night/": 1792570207.2580404,
+  "https://www.cbssports.com/nba/news/shai-gilgeous-alexander-20-point-streak-record-may-never-be-broken/": 1792761999.135103,
   "https://www.cbssports.com/soccer/news/harry-kane-shows-arsenal-what-theyre-missing-at-striker-bayern-arsenal-champions-league/": 1792627409.553267,
   "https://www.cbssports.com/soccer/news/psg-star-khvicha-kvaratskhelia-injury-ruptured-acl-2026/": 1792590603.1332288,
   "https://www.cbssports.com/wnba/news/angel-reese-demanded-the-ball-dream-wnba-finals-history/": 1792497158.9444642,
@@ -36,31 +38,6 @@
   "https://www.theguardian.com/sport/live/2026/oct/22/sri-lanka-v-england-tri-series-cricket-one-day-international-live": 1792678069.6925492
  },
  "topics": [
-  {
-   "t": 1792497158.944466,
-   "tokens": [
-    "angel",
-    "atlanta",
-    "delivered",
-    "down",
-    "finals",
-    "game",
-    "golden",
-    "level",
-    "opener",
-    "points",
-    "rebounds",
-    "reese",
-    "scores",
-    "series",
-    "she",
-    "state",
-    "stretch",
-    "struggled",
-    "win",
-    "wnba"
-   ]
-  },
   {
    "t": 1792502854.9181566,
    "tokens": [
@@ -257,6 +234,23 @@
     "sri",
     "tom",
     "tri"
+   ]
+  },
+  {
+   "t": 1792761999.1351044,
+   "tokens": [
+    "absolute",
+    "alexander",
+    "class",
+    "ends",
+    "game",
+    "gilgeous",
+    "nothing",
+    "point",
+    "respect",
+    "sga",
+    "shai",
+    "streak"
    ]
   }
  ]
