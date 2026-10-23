@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 2,
+  "count": 3,
   "date": "2026-10-23"
  },
  "seen": {
@@ -14,7 +14,9 @@
   "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss": 1792627409.5532627,
   "https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o?at_medium=RSS&at_campaign=rss": 1792590603.1332307,
   "https://www.bbc.co.uk/sport/football/videos/c8040gdrdlwwo?at_medium=RSS&at_campaign=rss": 1792627632.0456765,
+  "https://www.bbc.co.uk/sport/golf/articles/cjp3g4nyv44lo?at_medium=RSS&at_campaign=rss": 1792796946.4156985,
   "https://www.bbc.co.uk/sport/rugby-union/articles/c3ewe42q4jqzo?at_medium=RSS&at_campaign=rss": 1792607906.5514455,
+  "https://www.cbssports.com/golf/news/liv-golf-2-departures-tyrrell-hatton-ian-poulter/": 1792796946.4156961,
   "https://www.cbssports.com/nba/news/lebron-james-76ers-debut-grades-knicks-banner-rings-nba-opening-night/": 1792570207.2580404,
   "https://www.cbssports.com/nba/news/shai-gilgeous-alexander-20-point-streak-record-may-never-be-broken/": 1792761999.135103,
   "https://www.cbssports.com/soccer/news/harry-kane-shows-arsenal-what-theyre-missing-at-striker-bayern-arsenal-champions-league/": 1792627409.553267,
@@ -26,6 +28,7 @@
   "https://www.skysports.com/football/news/12040/13601843/khvicha-kvaratskhelia-psg-forward-set-for-surgery-after-rupturing-acl-in-champions-league-win-over-barcelona": 1792590603.1332316,
   "https://www.skysports.com/football/news/12040/13602045/manchester-united-bruno-fernandes-criticises-coaches-as-michael-carrick-questions-players-after-champions-league-loss-to-como": 1792627632.0456789,
   "https://www.skysports.com/football/news/12040/13602757/vincent-kompany-bayern-munich-boss-taken-to-hospital-after-collapsing-at-training-ground": 1792779617.7921503,
+  "https://www.skysports.com/golf/news/12040/13602803/tyrrell-hatton-to-leave-liv-golf-english-three-time-ryder-cup-winner-the-latest-to-confirm-his-exit-from-breakaway-tour": 1792796946.4156976,
   "https://www.skysports.com/nba/news/12040/13601194/wnba-finals-angel-reese-scores-30-points-16-rebounds-as-atlanta-dream-win-at-golden-state-valkyries-to-level-best-of-seven-series-1-1": 1792497158.944462,
   "https://www.skysports.com/rugby-union/news/12040/13601856/englands-red-roses-ellie-kildunne-benched-as-part-of-four-changes-to-starting-xv-in-search-for-victory-in-canada-rematch": 1792607906.551443,
   "https://www.skysports.com/watch/video/13601277/explained-why-was-there-tension-between-erik-ten-hag-and-cristiano-ronaldo": 1792502854.9181533,
@@ -42,29 +45,6 @@
   "https://www.theguardian.com/sport/live/2026/oct/22/sri-lanka-v-england-tri-series-cricket-one-day-international-live": 1792678069.6925492
  },
  "topics": [
-  {
-   "t": 1792521108.5578828,
-   "tokens": [
-    "against",
-    "batting",
-    "crumble",
-    "crumbled",
-    "defeat",
-    "england",
-    "excellent",
-    "malfunctioned",
-    "odi",
-    "opener",
-    "pakistan",
-    "rawalpindi",
-    "run",
-    "series",
-    "severely",
-    "start",
-    "tri",
-    "versus"
-   ]
-  },
   {
    "t": 1792570207.2580426,
    "tokens": [
@@ -256,6 +236,26 @@
     "update",
     "vincent",
     "yet"
+   ]
+  },
+  {
+   "t": 1792796946.4156997,
+   "tokens": [
+    "among",
+    "announce",
+    "commit",
+    "deadline",
+    "departure",
+    "golf",
+    "group",
+    "hatton",
+    "ian",
+    "latest",
+    "liv",
+    "oct",
+    "players",
+    "poulter",
+    "tyrrell"
    ]
   }
  ]
