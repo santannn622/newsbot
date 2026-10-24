@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 1,
+  "count": 2,
   "date": "2026-10-24"
  },
  "seen": {
@@ -9,8 +9,8 @@
   "https://www.bbc.co.uk/sport/basketball/articles/c6vgj4g913wyo?at_medium=RSS&at_campaign=rss": 1792570207.2580347,
   "https://www.bbc.co.uk/sport/cricket/articles/c962ylv3l334o?at_medium=RSS&at_campaign=rss": 1792521108.5578814,
   "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss": 1792678069.692551,
-  "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss": 1792502854.9181507,
   "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&at_campaign=rss": 1792779617.7921524,
+  "https://www.bbc.co.uk/sport/football/articles/ck4g14j85y9xo?at_medium=RSS&at_campaign=rss": 1792862851.6931062,
   "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss": 1792627409.5532627,
   "https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o?at_medium=RSS&at_campaign=rss": 1792590603.1332307,
   "https://www.bbc.co.uk/sport/football/videos/c8040gdrdlwwo?at_medium=RSS&at_campaign=rss": 1792627632.0456765,
@@ -30,48 +30,20 @@
   "https://www.skysports.com/football/news/12040/13602757/vincent-kompany-bayern-munich-boss-taken-to-hospital-after-collapsing-at-training-ground": 1792779617.7921503,
   "https://www.skysports.com/golf/news/12040/13602803/tyrrell-hatton-to-leave-liv-golf-english-three-time-ryder-cup-winner-the-latest-to-confirm-his-exit-from-breakaway-tour": 1792796946.4156976,
   "https://www.skysports.com/rugby-union/news/12040/13601856/englands-red-roses-ellie-kildunne-benched-as-part-of-four-changes-to-starting-xv-in-search-for-victory-in-canada-rematch": 1792607906.551443,
-  "https://www.skysports.com/watch/video/13601277/explained-why-was-there-tension-between-erik-ten-hag-and-cristiano-ronaldo": 1792502854.9181533,
   "https://www.skysports.com/watch/video/13601769/philadelphia-76ers-new-york-knicks-nba-highlights": 1792570207.2580388,
-  "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united": 1792502854.9181547,
+  "https://www.skysports.com/watch/video/13603081/aston-villa-2-1-manchester-city-premier-league-highlights": 1792862851.6931052,
   "https://www.theguardian.com/football/2026/oct/21/khvicha-kvaratskhelia-acl-injury-psg-ousmane-dembele-marquinhos": 1792590603.1332326,
   "https://www.theguardian.com/football/2026/oct/23/vincent-kompany-hospital-collapsing-bayern-munich-training": 1792779617.7921515,
   "https://www.theguardian.com/football/2026/oct/24/how-to-watch-premier-league-chelsea-tottenham-hotspur": 1792845729.006508,
   "https://www.theguardian.com/football/live/2026/oct/21/bayern-munich-v-arsenal-champions-league-live": 1792627409.5532684,
   "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live": 1792627632.0456798,
+  "https://www.theguardian.com/football/live/2026/oct/24/chelsea-v-tottenham-premier-league-live": 1792862851.693103,
   "https://www.theguardian.com/sport/2026/oct/20/nba-opening-night-2026-results-pistons-celtics-sixers-knicks-spurs-thunder": 1792570207.2580411,
   "https://www.theguardian.com/sport/2026/oct/21/red-roses-drop-ellie-kildunne-bench-canada-rematch-as-mitchell-seeks-england-reset": 1792607906.5514464,
   "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live": 1792521108.557882,
   "https://www.theguardian.com/sport/live/2026/oct/22/sri-lanka-v-england-tri-series-cricket-one-day-international-live": 1792678069.6925492
  },
  "topics": [
-  {
-   "t": 1792590603.133234,
-   "tokens": [
-    "acl",
-    "across",
-    "barcelona",
-    "enrique",
-    "frontline",
-    "georgian",
-    "germain",
-    "injury",
-    "khvicha",
-    "kvaratskhelia",
-    "leaves",
-    "luis",
-    "major",
-    "paris",
-    "psg",
-    "questions",
-    "ruptured",
-    "saint",
-    "star",
-    "suffering",
-    "surgery",
-    "undergo",
-    "win"
-   ]
-  },
   {
    "t": 1792607906.551448,
    "tokens": [
@@ -259,6 +231,29 @@
     "today",
     "watch",
     "world"
+   ]
+  },
+  {
+   "t": 1792862851.693109,
+   "tokens": [
+    "30pm",
+    "aston",
+    "bst",
+    "chelsea",
+    "city",
+    "kick",
+    "league",
+    "live",
+    "mail",
+    "man",
+    "premier",
+    "scores",
+    "scott",
+    "table",
+    "teams",
+    "tottenham",
+    "updates",
+    "villa"
    ]
   }
  ]
