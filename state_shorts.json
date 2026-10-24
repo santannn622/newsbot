@@ -1,10 +1,9 @@
 {
  "daily": {
-  "count": 2,
+  "count": 3,
   "date": "2026-10-24"
  },
  "seen": {
-  "https://news.sky.com/story/alberta-votes-to-remain-part-of-canada-13601218": 1792484962.2992697,
   "https://news.sky.com/story/at-least-seven-dead-after-shooting-at-church-in-jordan-reports-13602679": 1792801163.644382,
   "https://news.sky.com/story/israel-orders-army-to-prepare-to-fully-close-west-bank-after-attack-13602577": 1792757764.5622668,
   "https://news.sky.com/story/north-korea-plans-to-resume-propaganda-broadcasts-along-border-with-south-korea-13602125": 1792662476.562423,
@@ -15,6 +14,7 @@
   "https://www.aljazeera.com/news/2026/10/22/facebooks-wrongdoing-why-has-meta-been-fined-25bn-in-new-mexico?traffic_source=rss": 1792669761.5418842,
   "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss": 1792662476.5624247,
   "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss": 1792775200.6265805,
+  "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss": 1792839347.9145598,
   "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss": 1792496018.9925358,
   "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss": 1792502939.7584162,
   "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss": 1792801163.6443777,
@@ -24,6 +24,7 @@
   "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss": 1792775200.6265757,
   "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss": 1792801163.6443794,
   "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss": 1792583163.8920434,
+  "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss": 1792839347.914561,
   "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss": 1792669761.5418866,
   "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss": 1792627819.9354215,
   "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss": 1792743634.964028,
@@ -33,16 +34,15 @@
   "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-xml-mrss": 1792669761.5418878,
   "https://www.dw.com/en/pope-leo-will-not-need-further-cancer-treatment-vatican/a-79727154?maca=en-rss-en-all-1573-xml-mrss": 1792627819.9354177,
   "https://www.france24.com/en/africa/20261020-nigeria-records-first-ebola-case-as-outbreak-spreads-across-africa": 1792542377.7979589,
-  "https://www.france24.com/en/americas/20261019-alberta-votes-to-remain-part-of-canada-in-victory-for-pm-carney": 1792484962.2992723,
   "https://www.france24.com/en/asia-pacific/20261020-driver-charged-over-targeted-car-attack-on-australian-lawmaker-helen-haines": 1792502939.7584205,
   "https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers": 1792570166.5287035,
   "https://www.france24.com/en/europe/20261021-pope-leo-doctors-treatment-lung-cancer": 1792627819.9354205,
   "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack": 1792757764.5622659,
   "https://www.france24.com/en/middle-east/20261023-several-killed-dozens-wounded-in-jordan-church-shooting": 1792801163.644381,
+  "https://www.france24.com/en/netanyahu-orders-west-bank-operation": 1792839347.914558,
   "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin": 1792743634.964026,
   "https://www.france24.com/en/suspect-arrested-after-1-killed-and-4-wounded-in-a-shooting-in-paris-suburb": 1792806833.9263785,
   "https://www.france24.com/en/technology/20261021-meta-fined-25-billion-new-mexico-cambridge-analytica-scandal": 1792669761.5418873,
-  "https://www.npr.org/2026/10/19/nx-s1-6005810/alberta-voters-decide-whether-to-take-a-step-toward-separating-from-canada": 1792484962.2992713,
   "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case": 1792542377.7979605,
   "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada": 1792496018.9925425,
   "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts": 1792662476.5624204,
@@ -57,24 +57,6 @@
   "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network": 1792775200.626579
  },
  "topics": [
-  {
-   "t": 1792570166.5287058,
-   "tokens": [
-    "500",
-    "approves",
-    "clashes",
-    "government",
-    "italy",
-    "measures",
-    "milan",
-    "protests",
-    "response",
-    "security",
-    "sending",
-    "sweeping",
-    "troops"
-   ]
-  },
   {
    "t": 1792583163.8920457,
    "tokens": [
@@ -290,6 +272,33 @@
     "trappes",
     "verri",
     "year"
+   ]
+  },
+  {
+   "t": 1792839347.9145625,
+   "tokens": [
+    "across",
+    "attacks",
+    "bank",
+    "closures",
+    "displaced",
+    "following",
+    "gunmen",
+    "imposed",
+    "israel",
+    "israeli",
+    "killed",
+    "minister",
+    "netanyahu",
+    "occupied",
+    "operation",
+    "orders",
+    "palestinian",
+    "prime",
+    "residents",
+    "soldiers",
+    "west",
+    "widespread"
    ]
   }
  ]
