@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 1,
+  "count": 2,
   "date": "2026-10-24"
  },
  "seen": {
@@ -20,6 +20,7 @@
   "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss": 1792801163.6443777,
   "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss": 1792757764.5622652,
   "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss": 1792502939.7584188,
+  "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss": 1792806833.9263773,
   "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss": 1792775200.6265757,
   "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss": 1792801163.6443794,
   "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss": 1792583163.8920434,
@@ -39,6 +40,7 @@
   "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack": 1792757764.5622659,
   "https://www.france24.com/en/middle-east/20261023-several-killed-dozens-wounded-in-jordan-church-shooting": 1792801163.644381,
   "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin": 1792743634.964026,
+  "https://www.france24.com/en/suspect-arrested-after-1-killed-and-4-wounded-in-a-shooting-in-paris-suburb": 1792806833.9263785,
   "https://www.france24.com/en/technology/20261021-meta-fined-25-billion-new-mexico-cambridge-analytica-scandal": 1792669761.5418873,
   "https://www.npr.org/2026/10/19/nx-s1-6005810/alberta-voters-decide-whether-to-take-a-step-toward-separating-from-canada": 1792484962.2992713,
   "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case": 1792542377.7979605,
@@ -51,31 +53,10 @@
   "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe": 1792570166.5287044,
   "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest": 1792542377.797957,
   "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea": 1792662476.5624254,
+  "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris": 1792806833.9263742,
   "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network": 1792775200.626579
  },
  "topics": [
-  {
-   "t": 1792542377.7979617,
-   "tokens": [
-    "africa",
-    "capital",
-    "case",
-    "confirmed",
-    "confirms",
-    "country",
-    "detected",
-    "ebola",
-    "most",
-    "nigeria",
-    "outbreak",
-    "populous",
-    "spreads",
-    "travelled",
-    "uganda",
-    "western",
-    "woman"
-   ]
-  },
   {
    "t": 1792570166.5287058,
    "tokens": [
@@ -280,6 +261,35 @@
     "people",
     "seven",
     "wounded"
+   ]
+  },
+  {
+   "t": 1792806833.9263804,
+   "tokens": [
+    "car",
+    "condemned",
+    "condemns",
+    "emmanuel",
+    "fire",
+    "five",
+    "girl",
+    "gunman",
+    "including",
+    "injuring",
+    "killed",
+    "killing",
+    "macron",
+    "near",
+    "old",
+    "opens",
+    "others",
+    "paris",
+    "racism",
+    "shooting",
+    "terrorist",
+    "trappes",
+    "verri",
+    "year"
    ]
   }
  ]
