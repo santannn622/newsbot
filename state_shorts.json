@@ -1,7 +1,7 @@
 {
  "daily": {
-  "count": 3,
-  "date": "2026-10-24"
+  "count": 1,
+  "date": "2026-10-25"
  },
  "seen": {
   "https://news.sky.com/story/at-least-seven-dead-after-shooting-at-church-in-jordan-reports-13602679": 1792801163.644382,
@@ -15,11 +15,8 @@
   "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss": 1792662476.5624247,
   "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss": 1792775200.6265805,
   "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss": 1792839347.9145598,
-  "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss": 1792496018.9925358,
-  "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss": 1792502939.7584162,
   "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss": 1792801163.6443777,
   "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss": 1792757764.5622652,
-  "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss": 1792502939.7584188,
   "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss": 1792806833.9263773,
   "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss": 1792775200.6265757,
   "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss": 1792801163.6443794,
@@ -29,12 +26,10 @@
   "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss": 1792627819.9354215,
   "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss": 1792743634.964028,
   "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-xml-mrss": 1792583163.8920417,
-  "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-xml-mrss": 1792496018.9925416,
   "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-xml-mrss": 1792801163.6443803,
   "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-xml-mrss": 1792669761.5418878,
   "https://www.dw.com/en/pope-leo-will-not-need-further-cancer-treatment-vatican/a-79727154?maca=en-rss-en-all-1573-xml-mrss": 1792627819.9354177,
-  "https://www.france24.com/en/africa/20261020-nigeria-records-first-ebola-case-as-outbreak-spreads-across-africa": 1792542377.7979589,
-  "https://www.france24.com/en/asia-pacific/20261020-driver-charged-over-targeted-car-attack-on-australian-lawmaker-helen-haines": 1792502939.7584205,
+  "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss": 1792898805.1710358,
   "https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers": 1792570166.5287035,
   "https://www.france24.com/en/europe/20261021-pope-leo-doctors-treatment-lung-cancer": 1792627819.9354205,
   "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack": 1792757764.5622659,
@@ -43,68 +38,17 @@
   "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin": 1792743634.964026,
   "https://www.france24.com/en/suspect-arrested-after-1-killed-and-4-wounded-in-a-shooting-in-paris-suburb": 1792806833.9263785,
   "https://www.france24.com/en/technology/20261021-meta-fined-25-billion-new-mexico-cambridge-analytica-scandal": 1792669761.5418873,
-  "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case": 1792542377.7979605,
-  "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada": 1792496018.9925425,
+  "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief": 1792898805.171038,
   "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts": 1792662476.5624204,
   "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank": 1792757764.5622625,
-  "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb": 1792502939.7584198,
+  "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions": 1792898805.1710389,
   "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb": 1792583163.892044,
-  "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum": 1792496018.9925392,
   "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe": 1792570166.5287044,
-  "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest": 1792542377.797957,
   "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea": 1792662476.5624254,
   "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris": 1792806833.9263742,
   "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network": 1792775200.626579
  },
  "topics": [
-  {
-   "t": 1792583163.8920457,
-   "tokens": [
-    "appears",
-    "attack",
-    "australian",
-    "both",
-    "charged",
-    "condition",
-    "court",
-    "haines",
-    "helen",
-    "husband",
-    "independent",
-    "lawmaker",
-    "legs",
-    "loses",
-    "offences",
-    "stable",
-    "suspect",
-    "three",
-    "vehicle"
-   ]
-  },
-  {
-   "t": 1792627819.9356916,
-   "tokens": [
-    "around",
-    "broke",
-    "cancer",
-    "further",
-    "health",
-    "issues",
-    "last",
-    "leo",
-    "lung",
-    "need",
-    "papal",
-    "pope",
-    "secrecy",
-    "success",
-    "surgery",
-    "traditions",
-    "treatment",
-    "vatican",
-    "week"
-   ]
-  },
   {
    "t": 1792662476.5624268,
    "tokens": [
@@ -299,6 +243,26 @@
     "soldiers",
     "west",
     "widespread"
+   ]
+  },
+  {
+   "t": 1792898805.1710505,
+   "tokens": [
+    "announcement",
+    "comes",
+    "disrupted",
+    "military",
+    "normal",
+    "operations",
+    "restored",
+    "restrictions",
+    "satellite",
+    "sparked",
+    "speeds",
+    "starlink",
+    "starshield",
+    "tensions",
+    "ukraine"
    ]
   }
  ]
