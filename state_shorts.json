@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 1,
+  "count": 2,
   "date": "2026-10-25"
  },
  "seen": {
@@ -9,7 +9,6 @@
   "https://news.sky.com/story/north-korea-plans-to-resume-propaganda-broadcasts-along-border-with-south-korea-13602125": 1792662476.562423,
   "https://news.sky.com/story/pope-leos-doctors-say-tests-show-he-needs-no-further-treatment-for-lung-cancer-13602031": 1792627819.9354222,
   "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss": 1792583163.8920383,
-  "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss": 1792570166.5287006,
   "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss": 1792627819.9354193,
   "https://www.aljazeera.com/news/2026/10/22/facebooks-wrongdoing-why-has-meta-been-fined-25bn-in-new-mexico?traffic_source=rss": 1792669761.5418842,
   "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss": 1792662476.5624247,
@@ -26,11 +25,12 @@
   "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss": 1792627819.9354215,
   "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss": 1792743634.964028,
   "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-xml-mrss": 1792583163.8920417,
+  "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-xml-mrss": 1792927605.817624,
   "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-xml-mrss": 1792801163.6443803,
   "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-xml-mrss": 1792669761.5418878,
   "https://www.dw.com/en/pope-leo-will-not-need-further-cancer-treatment-vatican/a-79727154?maca=en-rss-en-all-1573-xml-mrss": 1792627819.9354177,
   "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss": 1792898805.1710358,
-  "https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers": 1792570166.5287035,
+  "https://www.france24.com/en/americas/20261025-what-to-know-as-brazilians-choose-between-lula-and-bolsonaro-in-tense-presidential-runoff": 1792927605.8176272,
   "https://www.france24.com/en/europe/20261021-pope-leo-doctors-treatment-lung-cancer": 1792627819.9354205,
   "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack": 1792757764.5622659,
   "https://www.france24.com/en/middle-east/20261023-several-killed-dozens-wounded-in-jordan-church-shooting": 1792801163.644381,
@@ -43,37 +43,11 @@
   "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank": 1792757764.5622625,
   "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions": 1792898805.1710389,
   "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb": 1792583163.892044,
-  "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe": 1792570166.5287044,
   "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea": 1792662476.5624254,
   "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris": 1792806833.9263742,
   "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network": 1792775200.626579
  },
  "topics": [
-  {
-   "t": 1792662476.5624268,
-   "tokens": [
-    "across",
-    "along",
-    "anti",
-    "armed",
-    "border",
-    "broadcasts",
-    "heavily",
-    "jong",
-    "kim",
-    "korea",
-    "leader",
-    "north",
-    "plans",
-    "propaganda",
-    "psychological",
-    "resume",
-    "reviving",
-    "seoul",
-    "sister",
-    "south"
-   ]
-  },
   {
    "t": 1792669761.5418894,
    "tokens": [
@@ -263,6 +237,31 @@
     "starshield",
     "tensions",
     "ukraine"
+   ]
+  },
+  {
+   "t": 1792927605.8176303,
+   "tokens": [
+    "between",
+    "bolsonaro",
+    "brazil",
+    "decide",
+    "election",
+    "flavio",
+    "government",
+    "high",
+    "leftist",
+    "lula",
+    "move",
+    "retain",
+    "right",
+    "runoff",
+    "stakes",
+    "tight",
+    "toward",
+    "votes",
+    "whether",
+    "wing"
    ]
   }
  ]
