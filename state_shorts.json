@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 2,
+  "count": 3,
   "date": "2026-10-25"
  },
  "seen": {
@@ -8,7 +8,7 @@
   "https://news.sky.com/story/israel-orders-army-to-prepare-to-fully-close-west-bank-after-attack-13602577": 1792757764.5622668,
   "https://news.sky.com/story/north-korea-plans-to-resume-propaganda-broadcasts-along-border-with-south-korea-13602125": 1792662476.562423,
   "https://news.sky.com/story/pope-leos-doctors-say-tests-show-he-needs-no-further-treatment-for-lung-cancer-13602031": 1792627819.9354222,
-  "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss": 1792583163.8920383,
+  "https://news.sky.com/story/student-protest-movement-aims-to-defeat-ex-serbian-leader-in-parliamentary-election-13603462": 1792944908.1111696,
   "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss": 1792627819.9354193,
   "https://www.aljazeera.com/news/2026/10/22/facebooks-wrongdoing-why-has-meta-been-fined-25bn-in-new-mexico?traffic_source=rss": 1792669761.5418842,
   "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss": 1792662476.5624247,
@@ -16,22 +16,23 @@
   "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss": 1792839347.9145598,
   "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss": 1792801163.6443777,
   "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss": 1792757764.5622652,
+  "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss": 1792944908.1111658,
   "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss": 1792806833.9263773,
   "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss": 1792775200.6265757,
   "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss": 1792801163.6443794,
-  "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss": 1792583163.8920434,
   "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss": 1792839347.914561,
   "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss": 1792669761.5418866,
   "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss": 1792627819.9354215,
   "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss": 1792743634.964028,
-  "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-xml-mrss": 1792583163.8920417,
   "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-xml-mrss": 1792927605.817624,
   "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-xml-mrss": 1792801163.6443803,
   "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-xml-mrss": 1792669761.5418878,
   "https://www.dw.com/en/pope-leo-will-not-need-further-cancer-treatment-vatican/a-79727154?maca=en-rss-en-all-1573-xml-mrss": 1792627819.9354177,
+  "https://www.dw.com/en/serbia-election-can-student-led-opposition-end-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-xml-mrss": 1792944908.1111686,
   "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss": 1792898805.1710358,
   "https://www.france24.com/en/americas/20261025-what-to-know-as-brazilians-choose-between-lula-and-bolsonaro-in-tense-presidential-runoff": 1792927605.8176272,
   "https://www.france24.com/en/europe/20261021-pope-leo-doctors-treatment-lung-cancer": 1792627819.9354205,
+  "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement": 1792944908.1111703,
   "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack": 1792757764.5622659,
   "https://www.france24.com/en/middle-east/20261023-several-killed-dozens-wounded-in-jordan-church-shooting": 1792801163.644381,
   "https://www.france24.com/en/netanyahu-orders-west-bank-operation": 1792839347.914558,
@@ -42,35 +43,11 @@
   "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts": 1792662476.5624204,
   "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank": 1792757764.5622625,
   "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions": 1792898805.1710389,
-  "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb": 1792583163.892044,
   "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea": 1792662476.5624254,
   "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris": 1792806833.9263742,
   "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network": 1792775200.626579
  },
  "topics": [
-  {
-   "t": 1792669761.5418894,
-   "tokens": [
-    "25bn",
-    "accused",
-    "analytica",
-    "cambridge",
-    "data",
-    "facebook",
-    "fined",
-    "giant",
-    "linked",
-    "meta",
-    "mexico",
-    "misleading",
-    "privacy",
-    "regarding",
-    "scandal",
-    "tech",
-    "users",
-    "wrongdoing"
-   ]
-  },
   {
    "t": 1792743634.9640298,
    "tokens": [
@@ -262,6 +239,30 @@
     "votes",
     "whether",
     "wing"
+   ]
+  },
+  {
+   "t": 1792944908.1111736,
+   "tokens": [
+    "aleksandar",
+    "bloc",
+    "challenges",
+    "election",
+    "end",
+    "huge",
+    "leader",
+    "led",
+    "longstanding",
+    "longtime",
+    "numbers",
+    "parliamentary",
+    "reign",
+    "serbia",
+    "serbians",
+    "student",
+    "turn",
+    "votes",
+    "vucic"
    ]
   }
  ]
