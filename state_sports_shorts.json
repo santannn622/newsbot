@@ -1,9 +1,10 @@
 {
  "daily": {
-  "count": 2,
+  "count": 3,
   "date": "2026-10-25"
  },
  "seen": {
+  "https://sports.yahoo.com/articles/antonelli-wins-us-wait-secure-215237448.html": 1792967628.422379,
   "https://sports.yahoo.com/articles/man-utd-battered-bournemouth-leave-160517527.html": 1792950995.8101192,
   "https://sports.yahoo.com/articles/mercedes-antonelli-claim-pole-position-221826729.html": 1792880974.615808,
   "https://sports.yahoo.com/articles/osaka-not-far-off-her-104044295.html": 1792933950.171522,
@@ -15,9 +16,9 @@
   "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss": 1792627409.5532627,
   "https://www.bbc.co.uk/sport/football/videos/c8040gdrdlwwo?at_medium=RSS&at_campaign=rss": 1792627632.0456765,
   "https://www.bbc.co.uk/sport/football/videos/cr5ynqy55l68o?at_medium=RSS&at_campaign=rss": 1792950995.8101215,
+  "https://www.bbc.co.uk/sport/formula1/articles/cm20w8154wn0o?at_medium=RSS&at_campaign=rss": 1792967628.42238,
   "https://www.bbc.co.uk/sport/formula1/articles/cqy7lvp7n57lo?at_medium=RSS&at_campaign=rss": 1792880974.615809,
   "https://www.bbc.co.uk/sport/golf/articles/cjp3g4nyv44lo?at_medium=RSS&at_campaign=rss": 1792796946.4156985,
-  "https://www.bbc.co.uk/sport/rugby-union/articles/c3ewe42q4jqzo?at_medium=RSS&at_campaign=rss": 1792607906.5514455,
   "https://www.bbc.co.uk/sport/tennis/articles/cwg7xy5x3590o?at_medium=RSS&at_campaign=rss": 1792933950.1715236,
   "https://www.cbssports.com/golf/news/liv-golf-2-departures-tyrrell-hatton-ian-poulter/": 1792796946.4156961,
   "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/": 1792845729.006509,
@@ -25,11 +26,11 @@
   "https://www.cbssports.com/soccer/news/harry-kane-shows-arsenal-what-theyre-missing-at-striker-bayern-arsenal-champions-league/": 1792627409.553267,
   "https://www.cbssports.com/soccer/news/vincent-kompany-collapse-bayern-munich/": 1792779617.7921479,
   "https://www.skysports.com/f1/news/12040/13603149/united-states-gp-qualifying-kimi-antonelli-beats-max-verstappen-to-surprise-pole-to-boost-chances-of-sealing-maiden-f1-title-on-sunday": 1792880974.6158054,
+  "https://www.skysports.com/f1/news/12040/13603603/united-states-gp-kimi-antonelli-wins-austin-race-to-move-to-brink-of-f1-world-title-after-dominant-drive": 1792967628.4223807,
   "https://www.skysports.com/football/bayern-munich-vs-arsenal/report/577643": 1792627409.5532677,
   "https://www.skysports.com/football/news/12040/13602045/manchester-united-bruno-fernandes-criticises-coaches-as-michael-carrick-questions-players-after-champions-league-loss-to-como": 1792627632.0456789,
   "https://www.skysports.com/football/news/12040/13602757/vincent-kompany-bayern-munich-boss-taken-to-hospital-after-collapsing-at-training-ground": 1792779617.7921503,
   "https://www.skysports.com/golf/news/12040/13602803/tyrrell-hatton-to-leave-liv-golf-english-three-time-ryder-cup-winner-the-latest-to-confirm-his-exit-from-breakaway-tour": 1792796946.4156976,
-  "https://www.skysports.com/rugby-union/news/12040/13601856/englands-red-roses-ellie-kildunne-benched-as-part-of-four-changes-to-starting-xv-in-search-for-victory-in-canada-rematch": 1792607906.551443,
   "https://www.skysports.com/watch/video/13603081/aston-villa-2-1-manchester-city-premier-league-highlights": 1792862851.6931052,
   "https://www.theguardian.com/football/2026/oct/23/vincent-kompany-hospital-collapsing-bayern-munich-training": 1792779617.7921515,
   "https://www.theguardian.com/football/2026/oct/24/how-to-watch-premier-league-chelsea-tottenham-hotspur": 1792845729.006508,
@@ -37,7 +38,7 @@
   "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live": 1792627632.0456798,
   "https://www.theguardian.com/football/live/2026/oct/24/chelsea-v-tottenham-premier-league-live": 1792862851.693103,
   "https://www.theguardian.com/football/live/2026/oct/25/manchester-united-v-bournemouth-liverpool-v-brighton-and-more-premier-league-live": 1792950995.8101225,
-  "https://www.theguardian.com/sport/2026/oct/21/red-roses-drop-ellie-kildunne-bench-canada-rematch-as-mitchell-seeks-england-reset": 1792607906.5514464,
+  "https://www.theguardian.com/sport/2026/oct/25/kimi-antonelli-storms-to-us-f1-gp-victory-but-is-made-to-wait-for-title-glory": 1792967628.4223766,
   "https://www.theguardian.com/sport/live/2026/oct/22/sri-lanka-v-england-tri-series-cricket-one-day-international-live": 1792678069.6925492
  },
  "topics": [
@@ -221,6 +222,34 @@
     "sunday",
     "united",
     "utd"
+   ]
+  },
+  {
+   "t": 1792967628.4223828,
+   "tokens": [
+    "20yo",
+    "antonelli",
+    "become",
+    "champion",
+    "championship",
+    "dominant",
+    "glory",
+    "grand",
+    "kimi",
+    "leader",
+    "leclerc",
+    "made",
+    "next",
+    "should",
+    "storms",
+    "title",
+    "took",
+    "verstappen",
+    "victory",
+    "wait",
+    "week",
+    "wins",
+    "youngest"
    ]
   }
  ]
