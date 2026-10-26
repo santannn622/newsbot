@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 2,
+  "count": 3,
   "date": "2026-10-26"
  },
  "seen": {
@@ -9,6 +9,7 @@
   "https://news.sky.com/story/student-protest-movement-aims-to-defeat-ex-serbian-leader-in-parliamentary-election-13603462": 1792944908.1111696,
   "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss": 1792775200.6265805,
   "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss": 1792839347.9145598,
+  "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss": 1793054798.1167426,
   "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss": 1792801163.6443777,
   "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss": 1792757764.5622652,
   "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss": 1792944908.1111658,
@@ -17,6 +18,7 @@
   "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss": 1792806833.9263773,
   "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss": 1792775200.6265757,
   "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss": 1792801163.6443794,
+  "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss": 1793054798.1167407,
   "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss": 1792839347.914561,
   "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss": 1792743634.964028,
   "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss": 1793016582.92007,
@@ -29,6 +31,7 @@
   "https://www.france24.com/en/americas/20261025-what-to-know-as-brazilians-choose-between-lula-and-bolsonaro-in-tense-presidential-runoff": 1792927605.8176272,
   "https://www.france24.com/en/brazil-what-challenges-await-lula-in-his-fourth-term-as-president": 1793020833.4341826,
   "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement": 1792944908.1111703,
+  "https://www.france24.com/en/leaders-across-americas-react-to-brazil-president-lula-s-re-election": 1793054798.116744,
   "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack": 1792757764.5622659,
   "https://www.france24.com/en/middle-east/20261023-several-killed-dozens-wounded-in-jordan-church-shooting": 1792801163.644381,
   "https://www.france24.com/en/netanyahu-orders-west-bank-operation": 1792839347.914558,
@@ -39,37 +42,13 @@
   "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions": 1792898805.1710389,
   "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile": 1793016582.9200728,
   "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election": 1793020833.4341846,
+  "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest": 1793054798.1167433,
   "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris": 1792806833.9263742,
   "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network": 1792775200.626579,
   "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return": 1793016582.9200718,
   "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula": 1793020833.4341805
  },
  "topics": [
-  {
-   "t": 1792775200.6267898,
-   "tokens": [
-    "brink",
-    "brokers",
-    "city",
-    "confirm",
-    "disaster",
-    "eat",
-    "garden",
-    "house",
-    "melania",
-    "occupied",
-    "oleshky",
-    "residents",
-    "russia",
-    "russian",
-    "survive",
-    "truce",
-    "trump",
-    "ukraine",
-    "weeds",
-    "white"
-   ]
-  },
   {
    "t": 1792801163.6443834,
    "tokens": [
@@ -269,6 +248,30 @@
     "updates",
     "win",
     "world"
+   ]
+  },
+  {
+   "t": 1793054798.1167529,
+   "tokens": [
+    "bolsonaro",
+    "brazil",
+    "challenger",
+    "comeback",
+    "dramatic",
+    "election",
+    "first",
+    "fourth",
+    "incumbent",
+    "left",
+    "lost",
+    "lula",
+    "president",
+    "right",
+    "round",
+    "term",
+    "vio",
+    "wing",
+    "wins"
    ]
   }
  ]
