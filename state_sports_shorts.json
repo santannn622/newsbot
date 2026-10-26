@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 1,
+  "count": 2,
   "date": "2026-10-26"
  },
  "seen": {
@@ -13,6 +13,7 @@
   "https://sports.yahoo.com/articles/where-watch-brewers-vs-rays-080001748.html": 1792845729.0065048,
   "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&at_campaign=rss": 1792779617.7921524,
   "https://www.bbc.co.uk/sport/football/articles/ck4g14j85y9xo?at_medium=RSS&at_campaign=rss": 1792862851.6931062,
+  "https://www.bbc.co.uk/sport/football/articles/cqdr8zv5dg42o?at_medium=RSS&at_campaign=rss": 1793046740.0223958,
   "https://www.bbc.co.uk/sport/football/videos/cr5ynqy55l68o?at_medium=RSS&at_campaign=rss": 1792950995.8101215,
   "https://www.bbc.co.uk/sport/formula1/articles/cm20w8154wn0o?at_medium=RSS&at_campaign=rss": 1792967628.42238,
   "https://www.bbc.co.uk/sport/formula1/articles/cqy7lvp7n57lo?at_medium=RSS&at_campaign=rss": 1792880974.615809,
@@ -25,6 +26,7 @@
   "https://www.cbssports.com/soccer/news/vincent-kompany-collapse-bayern-munich/": 1792779617.7921479,
   "https://www.skysports.com/f1/news/12040/13603149/united-states-gp-qualifying-kimi-antonelli-beats-max-verstappen-to-surprise-pole-to-boost-chances-of-sealing-maiden-f1-title-on-sunday": 1792880974.6158054,
   "https://www.skysports.com/f1/news/12040/13603603/united-states-gp-kimi-antonelli-wins-austin-race-to-move-to-brink-of-f1-world-title-after-dominant-drive": 1792967628.4223807,
+  "https://www.skysports.com/football/news/12040/13602156/manchester-united-players-to-return-to-training-on-tuesday-but-uncertain-if-michael-carrick-will-be-in-charge": 1793046740.0223942,
   "https://www.skysports.com/football/news/12040/13602757/vincent-kompany-bayern-munich-boss-taken-to-hospital-after-collapsing-at-training-ground": 1792779617.7921503,
   "https://www.skysports.com/golf/news/12040/13602803/tyrrell-hatton-to-leave-liv-golf-english-three-time-ryder-cup-winner-the-latest-to-confirm-his-exit-from-breakaway-tour": 1792796946.4156976,
   "https://www.skysports.com/watch/video/13603081/aston-villa-2-1-manchester-city-premier-league-highlights": 1792862851.6931052,
@@ -35,29 +37,6 @@
   "https://www.theguardian.com/sport/2026/oct/25/kimi-antonelli-storms-to-us-f1-gp-victory-but-is-made-to-wait-for-title-glory": 1792967628.4223766
  },
  "topics": [
-  {
-   "t": 1792779617.7921538,
-   "tokens": [
-    "bayern",
-    "club",
-    "collapsing",
-    "did",
-    "evaluation",
-    "ground",
-    "hospital",
-    "hospitalized",
-    "kompany",
-    "manager",
-    "munich",
-    "offer",
-    "status",
-    "taken",
-    "training",
-    "update",
-    "vincent",
-    "yet"
-   ]
-  },
   {
    "t": 1792796946.4156997,
    "tokens": [
@@ -251,6 +230,27 @@
     "winner",
     "world",
     "yamal"
+   ]
+  },
+  {
+   "t": 1793046740.022398,
+   "tokens": [
+    "carrick",
+    "carrington",
+    "future",
+    "man",
+    "manchester",
+    "michael",
+    "players",
+    "return",
+    "set",
+    "still",
+    "training",
+    "tuesday",
+    "uncertain",
+    "united",
+    "utd",
+    "whether"
    ]
   }
  ]
