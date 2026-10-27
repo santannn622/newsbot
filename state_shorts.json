@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 1,
+  "count": 2,
   "date": "2026-10-27"
  },
  "seen": {
@@ -16,12 +16,12 @@
   "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss": 1792944908.1111658,
   "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss": 1793020833.4341834,
   "https://www.aljazeera.com/video/newsfeed/2026/10/26/thousands-greet-opposition-leader-maria-machado-upon-return-to-caracas?traffic_source=rss": 1793016582.9200678,
+  "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss": 1793102902.5236206,
   "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss": 1792806833.9263773,
   "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss": 1792775200.6265757,
   "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss": 1792801163.6443794,
   "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss": 1793054798.1167407,
   "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss": 1792839347.914561,
-  "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss": 1792743634.964028,
   "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss": 1793016582.92007,
   "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-xml-mrss": 1792927605.817624,
   "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-xml-mrss": 1793020833.4341838,
@@ -32,18 +32,19 @@
   "https://www.france24.com/en/americas/20261025-what-to-know-as-brazilians-choose-between-lula-and-bolsonaro-in-tense-presidential-runoff": 1792927605.8176272,
   "https://www.france24.com/en/brazil-what-challenges-await-lula-in-his-fourth-term-as-president": 1793020833.4341826,
   "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement": 1792944908.1111703,
+  "https://www.france24.com/en/israelis-vote-in-first-national-election-since-october-7-attack": 1793102902.523623,
   "https://www.france24.com/en/leaders-across-americas-react-to-brazil-president-lula-s-re-election": 1793054798.116744,
   "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack": 1792757764.5622659,
   "https://www.france24.com/en/middle-east/20261023-several-killed-dozens-wounded-in-jordan-church-shooting": 1792801163.644381,
   "https://www.france24.com/en/netanyahu-orders-west-bank-operation": 1792839347.914558,
   "https://www.france24.com/en/polls-open-in-israeli-election-seen-as-referendum-on-netanyahu": 1793089287.6379626,
-  "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin": 1792743634.964026,
   "https://www.france24.com/en/suspect-arrested-after-1-killed-and-4-wounded-in-a-shooting-in-paris-suburb": 1792806833.9263785,
   "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief": 1792898805.171038,
   "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank": 1792757764.5622625,
   "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions": 1792898805.1710389,
   "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile": 1793016582.9200728,
   "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election": 1793020833.4341846,
+  "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide": 1793102902.523624,
   "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest": 1793054798.1167433,
   "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris": 1792806833.9263742,
   "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network": 1792775200.626579,
@@ -52,33 +53,6 @@
   "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates": 1793089287.6379604
  },
  "topics": [
-  {
-   "t": 1792839347.9145625,
-   "tokens": [
-    "across",
-    "attacks",
-    "bank",
-    "closures",
-    "displaced",
-    "following",
-    "gunmen",
-    "imposed",
-    "israel",
-    "israeli",
-    "killed",
-    "minister",
-    "netanyahu",
-    "occupied",
-    "operation",
-    "orders",
-    "palestinian",
-    "prime",
-    "residents",
-    "soldiers",
-    "west",
-    "widespread"
-   ]
-  },
   {
    "t": 1792898805.1710505,
    "tokens": [
@@ -257,6 +231,33 @@
     "prime",
     "shows",
     "vote"
+   ]
+  },
+  {
+   "t": 1793102902.523626,
+   "tokens": [
+    "attacks",
+    "benjamin",
+    "decades",
+    "election",
+    "elections",
+    "far",
+    "first",
+    "followed",
+    "hamas",
+    "highest",
+    "israel",
+    "israelis",
+    "led",
+    "pivotal",
+    "referendum",
+    "seen",
+    "since",
+    "turnout",
+    "vote",
+    "wars",
+    "which",
+    "widely"
    ]
   }
  ]
