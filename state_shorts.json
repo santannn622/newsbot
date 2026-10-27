@@ -1,7 +1,7 @@
 {
  "daily": {
-  "count": 3,
-  "date": "2026-10-26"
+  "count": 1,
+  "date": "2026-10-27"
  },
  "seen": {
   "https://news.sky.com/story/at-least-seven-dead-after-shooting-at-church-in-jordan-reports-13602679": 1792801163.644382,
@@ -9,6 +9,7 @@
   "https://news.sky.com/story/student-protest-movement-aims-to-defeat-ex-serbian-leader-in-parliamentary-election-13603462": 1792944908.1111696,
   "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss": 1792775200.6265805,
   "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss": 1792839347.9145598,
+  "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss": 1793089287.6379635,
   "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss": 1793054798.1167426,
   "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss": 1792801163.6443777,
   "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss": 1792757764.5622652,
@@ -35,6 +36,7 @@
   "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack": 1792757764.5622659,
   "https://www.france24.com/en/middle-east/20261023-several-killed-dozens-wounded-in-jordan-church-shooting": 1792801163.644381,
   "https://www.france24.com/en/netanyahu-orders-west-bank-operation": 1792839347.914558,
+  "https://www.france24.com/en/polls-open-in-israeli-election-seen-as-referendum-on-netanyahu": 1793089287.6379626,
   "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin": 1792743634.964026,
   "https://www.france24.com/en/suspect-arrested-after-1-killed-and-4-wounded-in-a-shooting-in-paris-suburb": 1792806833.9263785,
   "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief": 1792898805.171038,
@@ -46,58 +48,10 @@
   "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris": 1792806833.9263742,
   "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network": 1792775200.626579,
   "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return": 1793016582.9200718,
-  "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula": 1793020833.4341805
+  "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula": 1793020833.4341805,
+  "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates": 1793089287.6379604
  },
  "topics": [
-  {
-   "t": 1792801163.6443834,
-   "tokens": [
-    "attack",
-    "church",
-    "fire",
-    "funeral",
-    "gunmen",
-    "jordan",
-    "karak",
-    "kill",
-    "killed",
-    "least",
-    "masked",
-    "opened",
-    "people",
-    "seven",
-    "wounded"
-   ]
-  },
-  {
-   "t": 1792806833.9263804,
-   "tokens": [
-    "car",
-    "condemned",
-    "condemns",
-    "emmanuel",
-    "fire",
-    "five",
-    "girl",
-    "gunman",
-    "including",
-    "injuring",
-    "killed",
-    "killing",
-    "macron",
-    "near",
-    "old",
-    "opens",
-    "others",
-    "paris",
-    "racism",
-    "shooting",
-    "terrorist",
-    "trappes",
-    "verri",
-    "year"
-   ]
-  },
   {
    "t": 1792839347.9145625,
    "tokens": [
@@ -272,6 +226,37 @@
     "vio",
     "wing",
     "wins"
+   ]
+  },
+  {
+   "t": 1793089287.6379652,
+   "tokens": [
+    "benjamin",
+    "coalition",
+    "consequential",
+    "contender",
+    "country",
+    "eisenkot",
+    "election",
+    "gadi",
+    "history",
+    "israel",
+    "know",
+    "leading",
+    "live",
+    "lose",
+    "majority",
+    "minister",
+    "most",
+    "need",
+    "netanyahu",
+    "open",
+    "opposition",
+    "polling",
+    "polls",
+    "prime",
+    "shows",
+    "vote"
    ]
   }
  ]
