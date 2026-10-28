@@ -1,11 +1,13 @@
 {
  "daily": {
-  "count": 0,
+  "count": 1,
   "date": "2026-10-28"
  },
  "seen": {
+  "https://news.sky.com/story/cruise-ship-mv-odyssey-stranded-in-cambodia-after-soaring-fuel-costs-13604720": 1793227002.6863809,
   "https://news.sky.com/story/flavio-bolsonaro-defeated-brazilian-presidential-candidate-ordered-to-hand-over-passports-13604365": 1793124960.5479245,
   "https://news.sky.com/story/student-protest-movement-aims-to-defeat-ex-serbian-leader-in-parliamentary-election-13603462": 1792944908.1111696,
+  "https://www.aljazeera.com/news/2026/10/28/fuel-costs-force-us-cruise-ship-to-suspend-multi-year-voyage-in-cambodia?traffic_source=rss": 1793227002.6863773,
   "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss": 1793089287.6379635,
   "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss": 1793054798.1167426,
   "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss": 1792944908.1111658,
@@ -15,6 +17,7 @@
   "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss": 1793102902.5236206,
   "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss": 1793124960.5479217,
   "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss": 1793054798.1167407,
+  "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss": 1793227002.6863797,
   "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss": 1793016582.92007,
   "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-xml-mrss": 1792927605.817624,
   "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-xml-mrss": 1793020833.4341838,
@@ -34,6 +37,7 @@
   "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile": 1793016582.9200728,
   "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election": 1793020833.4341846,
   "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide": 1793102902.523624,
+  "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes": 1793227002.6863828,
   "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster": 1793191737.2765896,
   "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest": 1793054798.1167433,
   "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return": 1793016582.9200718,
@@ -43,30 +47,6 @@
   "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates": 1793089287.6379604
  },
  "topics": [
-  {
-   "t": 1792944908.1111736,
-   "tokens": [
-    "aleksandar",
-    "bloc",
-    "challenges",
-    "election",
-    "end",
-    "huge",
-    "leader",
-    "led",
-    "longstanding",
-    "longtime",
-    "numbers",
-    "parliamentary",
-    "reign",
-    "serbia",
-    "serbians",
-    "student",
-    "turn",
-    "votes",
-    "vucic"
-   ]
-  },
   {
    "t": 1793016582.9200745,
    "tokens": [
@@ -243,6 +223,29 @@
     "train",
     "trains",
     "urda"
+   ]
+  },
+  {
+   "t": 1793227002.6863854,
+   "tokens": [
+    "cambodia",
+    "costs",
+    "cruise",
+    "cut",
+    "due",
+    "force",
+    "fuel",
+    "half",
+    "hundreds",
+    "multiyear",
+    "passengers",
+    "ship",
+    "short",
+    "stranded",
+    "suspend",
+    "three",
+    "voyage",
+    "year"
    ]
   }
  ]
