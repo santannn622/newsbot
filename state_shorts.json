@@ -1,30 +1,25 @@
 {
  "daily": {
-  "count": 3,
-  "date": "2026-10-27"
+  "count": 0,
+  "date": "2026-10-28"
  },
  "seen": {
-  "https://news.sky.com/story/at-least-seven-dead-after-shooting-at-church-in-jordan-reports-13602679": 1792801163.644382,
   "https://news.sky.com/story/flavio-bolsonaro-defeated-brazilian-presidential-candidate-ordered-to-hand-over-passports-13604365": 1793124960.5479245,
   "https://news.sky.com/story/student-protest-movement-aims-to-defeat-ex-serbian-leader-in-parliamentary-election-13603462": 1792944908.1111696,
-  "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss": 1792839347.9145598,
   "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss": 1793089287.6379635,
   "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss": 1793054798.1167426,
-  "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss": 1792801163.6443777,
   "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss": 1792944908.1111658,
   "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss": 1793020833.4341834,
   "https://www.aljazeera.com/video/newsfeed/2026/10/26/thousands-greet-opposition-leader-maria-machado-upon-return-to-caracas?traffic_source=rss": 1793016582.9200678,
+  "https://www.aljazeera.com/video/newsfeed/2026/10/28/deadly-high-speed-train-collision-in-spain?traffic_source=rss": 1793191737.276587,
   "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss": 1793102902.5236206,
-  "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss": 1792806833.9263773,
-  "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss": 1792801163.6443794,
   "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss": 1793124960.5479217,
   "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss": 1793054798.1167407,
-  "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss": 1792839347.914561,
   "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss": 1793016582.92007,
   "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-xml-mrss": 1792927605.817624,
   "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-xml-mrss": 1793020833.4341838,
-  "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-xml-mrss": 1792801163.6443803,
   "https://www.dw.com/en/serbia-election-can-student-led-opposition-end-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-xml-mrss": 1792944908.1111686,
+  "https://www.dw.com/en/several-people-killed-after-high-speed-trains-collide-in-central-spain/a-79784119?maca=en-rss-en-all-1573-xml-mrss": 1793191737.27659,
   "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss": 1792898805.1710358,
   "https://www.dw.com/en/venezuela-opposition-leader-machado-returns-from-exile-received-by-thousands-of-supporters-in-caracas/a-79759187?maca=en-rss-en-all-1573-xml-mrss": 1793016582.920071,
   "https://www.france24.com/en/americas/20261025-what-to-know-as-brazilians-choose-between-lula-and-bolsonaro-in-tense-presidential-runoff": 1792927605.8176272,
@@ -33,68 +28,21 @@
   "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement": 1792944908.1111703,
   "https://www.france24.com/en/israelis-vote-in-first-national-election-since-october-7-attack": 1793102902.523623,
   "https://www.france24.com/en/leaders-across-americas-react-to-brazil-president-lula-s-re-election": 1793054798.116744,
-  "https://www.france24.com/en/middle-east/20261023-several-killed-dozens-wounded-in-jordan-church-shooting": 1792801163.644381,
-  "https://www.france24.com/en/netanyahu-orders-west-bank-operation": 1792839347.914558,
   "https://www.france24.com/en/polls-open-in-israeli-election-seen-as-referendum-on-netanyahu": 1793089287.6379626,
-  "https://www.france24.com/en/suspect-arrested-after-1-killed-and-4-wounded-in-a-shooting-in-paris-suburb": 1792806833.9263785,
   "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief": 1792898805.171038,
   "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions": 1792898805.1710389,
   "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile": 1793016582.9200728,
   "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election": 1793020833.4341846,
   "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide": 1793102902.523624,
+  "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster": 1793191737.2765896,
   "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest": 1793054798.1167433,
-  "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris": 1792806833.9263742,
   "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return": 1793016582.9200718,
   "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election": 1793124960.5479357,
+  "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo": 1793191737.276589,
   "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula": 1793020833.4341805,
   "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates": 1793089287.6379604
  },
  "topics": [
-  {
-   "t": 1792898805.1710505,
-   "tokens": [
-    "announcement",
-    "comes",
-    "disrupted",
-    "military",
-    "normal",
-    "operations",
-    "restored",
-    "restrictions",
-    "satellite",
-    "sparked",
-    "speeds",
-    "starlink",
-    "starshield",
-    "tensions",
-    "ukraine"
-   ]
-  },
-  {
-   "t": 1792927605.8176303,
-   "tokens": [
-    "between",
-    "bolsonaro",
-    "brazil",
-    "decide",
-    "election",
-    "flavio",
-    "government",
-    "high",
-    "leftist",
-    "lula",
-    "move",
-    "retain",
-    "right",
-    "runoff",
-    "stakes",
-    "tight",
-    "toward",
-    "votes",
-    "whether",
-    "wing"
-   ]
-  },
   {
    "t": 1792944908.1111736,
    "tokens": [
@@ -277,6 +225,24 @@
     "surrender",
     "them",
     "vio"
+   ]
+  },
+  {
+   "t": 1793191737.276591,
+   "tokens": [
+    "collided",
+    "collision",
+    "deadly",
+    "high",
+    "killed",
+    "least",
+    "near",
+    "people",
+    "spain",
+    "speed",
+    "train",
+    "trains",
+    "urda"
    ]
   }
  ]
