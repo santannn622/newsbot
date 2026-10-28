@@ -1,17 +1,17 @@
 {
  "daily": {
-  "count": 3,
-  "date": "2026-10-27"
+  "count": 1,
+  "date": "2026-10-28"
  },
  "seen": {
   "https://sports.yahoo.com/articles/antonelli-wins-us-wait-secure-215237448.html": 1792967628.422379,
   "https://sports.yahoo.com/articles/ballon-dor-winner-takes-win-152140749.html": 1793029018.5884583,
   "https://sports.yahoo.com/articles/bayern-bosses-congratulate-kane-ballon-235200871.html": 1793060172.2542653,
+  "https://sports.yahoo.com/articles/chiefs-cut-harrison-butker-justin-145602339.html": 1793200049.5888145,
   "https://sports.yahoo.com/articles/man-utd-battered-bournemouth-leave-160517527.html": 1792950995.8101192,
   "https://sports.yahoo.com/articles/mercedes-antonelli-claim-pole-position-221826729.html": 1792880974.615808,
   "https://sports.yahoo.com/articles/osaka-not-far-off-her-104044295.html": 1792933950.171522,
   "https://sports.yahoo.com/articles/where-does-fleetwood-beating-arsenal-233525696.html": 1793144860.9829,
-  "https://sports.yahoo.com/articles/where-watch-brewers-vs-rays-080001748.html": 1792845729.0065048,
   "https://www.bbc.co.uk/sport/football/articles/ck4g14j85y9xo?at_medium=RSS&at_campaign=rss": 1792862851.6931062,
   "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&at_campaign=rss": 1793144860.982902,
   "https://www.bbc.co.uk/sport/football/articles/cqdr8zv5dg42o?at_medium=RSS&at_campaign=rss": 1793046740.0223958,
@@ -20,7 +20,7 @@
   "https://www.bbc.co.uk/sport/formula1/articles/cm20w8154wn0o?at_medium=RSS&at_campaign=rss": 1792967628.42238,
   "https://www.bbc.co.uk/sport/formula1/articles/cqy7lvp7n57lo?at_medium=RSS&at_campaign=rss": 1792880974.615809,
   "https://www.bbc.co.uk/sport/tennis/articles/cwg7xy5x3590o?at_medium=RSS&at_campaign=rss": 1792933950.1715236,
-  "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/": 1792845729.006509,
+  "https://www.cbssports.com/nfl/news/chiefs-sign-former-ravens-kicker-justin-tucker/": 1793200049.5888176,
   "https://www.cbssports.com/soccer/news/ballon-dor-harry-kane-should-win-lamine-yamal-kylian-mbappe-lionel-messi/": 1793029018.58846,
   "https://www.skysports.com/f1/news/12040/13603149/united-states-gp-qualifying-kimi-antonelli-beats-max-verstappen-to-surprise-pole-to-boost-chances-of-sealing-maiden-f1-title-on-sunday": 1792880974.6158054,
   "https://www.skysports.com/f1/news/12040/13603603/united-states-gp-kimi-antonelli-wins-austin-race-to-move-to-brink-of-f1-world-title-after-dominant-drive": 1792967628.4223807,
@@ -29,39 +29,15 @@
   "https://www.skysports.com/football/news/12040/13602156/manchester-united-players-to-return-to-training-on-tuesday-but-uncertain-if-michael-carrick-will-be-in-charge": 1793046740.0223942,
   "https://www.skysports.com/football/news/12040/13604347/man-utd-boss-michael-carrick-to-remain-in-charge-vs-chelsea-and-given-chance-to-turn-situation-around": 1793111233.4026592,
   "https://www.skysports.com/watch/video/13603081/aston-villa-2-1-manchester-city-premier-league-highlights": 1792862851.6931052,
-  "https://www.theguardian.com/football/2026/oct/24/how-to-watch-premier-league-chelsea-tottenham-hotspur": 1792845729.006508,
   "https://www.theguardian.com/football/2026/oct/27/fleetwood-town-arsenal-carabao-cup-fourth-round-match-report": 1793144860.9829044,
   "https://www.theguardian.com/football/2026/oct/27/manchester-united-eddie-howe-newcastle-compensation-michael-carrick": 1793111233.4026558,
   "https://www.theguardian.com/football/live/2026/oct/24/chelsea-v-tottenham-premier-league-live": 1792862851.693103,
   "https://www.theguardian.com/football/live/2026/oct/25/manchester-united-v-bournemouth-liverpool-v-brighton-and-more-premier-league-live": 1792950995.8101225,
   "https://www.theguardian.com/football/live/2026/oct/26/ballon-dor-2026-updates-from-70th-edition-in-london-live": 1793060172.2542672,
-  "https://www.theguardian.com/sport/2026/oct/25/kimi-antonelli-storms-to-us-f1-gp-victory-but-is-made-to-wait-for-title-glory": 1792967628.4223766
+  "https://www.theguardian.com/sport/2026/oct/25/kimi-antonelli-storms-to-us-f1-gp-victory-but-is-made-to-wait-for-title-glory": 1792967628.4223766,
+  "https://www.theguardian.com/sport/2026/oct/28/justin-tucker-harrison-butker-nfl-kicker-chiefs": 1793200049.588817
  },
  "topics": [
-  {
-   "t": 1792933950.171526,
-   "tokens": [
-    "asked",
-    "best",
-    "champion",
-    "consider",
-    "far",
-    "form",
-    "four",
-    "future",
-    "game",
-    "grand",
-    "naomi",
-    "often",
-    "osaka",
-    "ponders",
-    "quitting",
-    "returning",
-    "she",
-    "slam",
-    "time"
-   ]
-  },
   {
    "t": 1792950995.8101246,
    "tokens": [
@@ -231,6 +207,23 @@
     "town",
     "upsets",
     "win"
+   ]
+  },
+  {
+   "t": 1793200049.5888197,
+   "tokens": [
+    "butker",
+    "chiefs",
+    "city",
+    "cut",
+    "harrison",
+    "justin",
+    "kansas",
+    "kicked",
+    "season",
+    "signing",
+    "tucker",
+    "well"
    ]
   }
  ]
