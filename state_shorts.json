@@ -1,7 +1,7 @@
 {
  "daily": {
   "count": 1,
-  "date": "2026-10-28"
+  "date": "2026-10-29"
  },
  "seen": {
   "https://news.sky.com/story/cruise-ship-mv-odyssey-stranded-in-cambodia-after-soaring-fuel-costs-13604720": 1793227002.6863809,
@@ -19,21 +19,18 @@
   "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss": 1793054798.1167407,
   "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss": 1793227002.6863797,
   "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss": 1793016582.92007,
-  "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-xml-mrss": 1792927605.817624,
   "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-xml-mrss": 1793020833.4341838,
+  "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-all-1573-xml-mrss": 1793278678.174298,
   "https://www.dw.com/en/serbia-election-can-student-led-opposition-end-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-xml-mrss": 1792944908.1111686,
   "https://www.dw.com/en/several-people-killed-after-high-speed-trains-collide-in-central-spain/a-79784119?maca=en-rss-en-all-1573-xml-mrss": 1793191737.27659,
-  "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss": 1792898805.1710358,
   "https://www.dw.com/en/venezuela-opposition-leader-machado-returns-from-exile-received-by-thousands-of-supporters-in-caracas/a-79759187?maca=en-rss-en-all-1573-xml-mrss": 1793016582.920071,
-  "https://www.france24.com/en/americas/20261025-what-to-know-as-brazilians-choose-between-lula-and-bolsonaro-in-tense-presidential-runoff": 1792927605.8176272,
   "https://www.france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown": 1793124960.547924,
   "https://www.france24.com/en/brazil-what-challenges-await-lula-in-his-fourth-term-as-president": 1793020833.4341826,
   "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement": 1792944908.1111703,
+  "https://www.france24.com/en/europe/20261029-ecb-president-christine-lagarde-to-step-down-in-february-2027-nine-months-before-term-ends": 1793278678.1742992,
   "https://www.france24.com/en/israelis-vote-in-first-national-election-since-october-7-attack": 1793102902.523623,
   "https://www.france24.com/en/leaders-across-americas-react-to-brazil-president-lula-s-re-election": 1793054798.116744,
   "https://www.france24.com/en/polls-open-in-israeli-election-seen-as-referendum-on-netanyahu": 1793089287.6379626,
-  "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief": 1792898805.171038,
-  "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions": 1792898805.1710389,
   "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile": 1793016582.9200728,
   "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election": 1793020833.4341846,
   "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide": 1793102902.523624,
@@ -43,31 +40,11 @@
   "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return": 1793016582.9200718,
   "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election": 1793124960.5479357,
   "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo": 1793191737.276589,
+  "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early": 1793278678.1742961,
   "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula": 1793020833.4341805,
   "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates": 1793089287.6379604
  },
  "topics": [
-  {
-   "t": 1793016582.9200745,
-   "tokens": [
-    "back",
-    "caracas",
-    "corina",
-    "exile",
-    "greet",
-    "leader",
-    "lined",
-    "machado",
-    "maria",
-    "opposition",
-    "return",
-    "streets",
-    "thousands",
-    "upon",
-    "venezuela",
-    "welcome"
-   ]
-  },
   {
    "t": 1793020833.4341867,
    "tokens": [
@@ -246,6 +223,35 @@
     "three",
     "voyage",
     "year"
+   ]
+  },
+  {
+   "t": 1793278678.174301,
+   "tokens": [
+    "bank",
+    "candidate",
+    "central",
+    "chief",
+    "christine",
+    "comes",
+    "departure",
+    "down",
+    "early",
+    "economic",
+    "europe",
+    "eurozone",
+    "forum",
+    "growth",
+    "inflation",
+    "lagarde",
+    "months",
+    "nine",
+    "seen",
+    "step",
+    "struggles",
+    "take",
+    "weak",
+    "world"
    ]
   }
  ]
