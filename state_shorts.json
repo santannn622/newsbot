@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 1,
+  "count": 2,
   "date": "2026-10-30"
  },
  "seen": {
@@ -9,27 +9,26 @@
   "https://www.aljazeera.com/news/2026/10/28/fuel-costs-force-us-cruise-ship-to-suspend-multi-year-voyage-in-cambodia?traffic_source=rss": 1793227002.6863773,
   "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss": 1793089287.6379635,
   "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss": 1793054798.1167426,
-  "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss": 1793020833.4341834,
   "https://www.aljazeera.com/video/newsfeed/2026/10/28/deadly-high-speed-train-collision-in-spain?traffic_source=rss": 1793191737.276587,
   "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss": 1793313921.1056588,
   "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss": 1793102902.5236206,
   "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss": 1793313921.1056612,
+  "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss": 1793398696.7795618,
   "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss": 1793124960.5479217,
   "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss": 1793054798.1167407,
   "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss": 1793227002.6863797,
-  "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-xml-mrss": 1793020833.4341838,
   "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-all-1573-xml-mrss": 1793278678.174298,
   "https://www.dw.com/en/russia-critical-newspaper-novaya-gazeta-to-close/a-79805693?maca=en-rss-en-all-1573-xml-mrss": 1793364648.4121938,
   "https://www.dw.com/en/several-people-killed-after-high-speed-trains-collide-in-central-spain/a-79784119?maca=en-rss-en-all-1573-xml-mrss": 1793191737.27659,
+  "https://www.dw.com/en/tennessee-woman-christa-pike-describes-pain-after-failed-execution/a-79810735?maca=en-rss-en-all-1573-xml-mrss": 1793398696.7795637,
   "https://www.dw.com/en/ukraine-14-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-all-1573-xml-mrss": 1793313921.1056623,
   "https://www.france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown": 1793124960.547924,
-  "https://www.france24.com/en/brazil-what-challenges-await-lula-in-his-fourth-term-as-president": 1793020833.4341826,
+  "https://www.france24.com/en/americas/20261030-deeply-hurt-convicted-murderer-christa-pike-speaks-out-after-botched-execution": 1793398696.779565,
   "https://www.france24.com/en/europe/20261029-ecb-president-christine-lagarde-to-step-down-in-february-2027-nine-months-before-term-ends": 1793278678.1742992,
   "https://www.france24.com/en/europe/20261030-russia-s-bastion-of-free-press-novaya-gazeta-shuts-down-after-years-of-kremlin-pressure": 1793364648.4121966,
   "https://www.france24.com/en/israelis-vote-in-first-national-election-since-october-7-attack": 1793102902.523623,
   "https://www.france24.com/en/leaders-across-americas-react-to-brazil-president-lula-s-re-election": 1793054798.116744,
   "https://www.france24.com/en/polls-open-in-israeli-election-seen-as-referendum-on-netanyahu": 1793089287.6379626,
-  "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election": 1793020833.4341846,
   "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide": 1793102902.523624,
   "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes": 1793227002.6863828,
   "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster": 1793191737.2765896,
@@ -38,32 +37,9 @@
   "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo": 1793191737.276589,
   "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early": 1793278678.1742961,
   "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close": 1793364648.4121957,
-  "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula": 1793020833.4341805,
   "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates": 1793089287.6379604
  },
  "topics": [
-  {
-   "t": 1793124960.5479383,
-   "tokens": [
-    "alleged",
-    "barred",
-    "bolsonaro",
-    "brazil",
-    "cancelled",
-    "candidate",
-    "defeated",
-    "fails",
-    "investigation",
-    "laundering",
-    "leaving",
-    "money",
-    "passports",
-    "presidential",
-    "surrender",
-    "them",
-    "vio"
-   ]
-  },
   {
    "t": 1793191737.276591,
    "tokens": [
@@ -173,6 +149,29 @@
     "remaining",
     "russia",
     "state"
+   ]
+  },
+  {
+   "t": 1793398696.7795677,
+   "tokens": [
+    "attempt",
+    "christa",
+    "confused",
+    "execution",
+    "failed",
+    "first",
+    "injection",
+    "inmate",
+    "lethal",
+    "pain",
+    "pike",
+    "public",
+    "september",
+    "she",
+    "since",
+    "statement",
+    "survived",
+    "woke"
    ]
   }
  ]
