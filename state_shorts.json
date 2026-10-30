@@ -1,7 +1,7 @@
 {
  "daily": {
-  "count": 2,
-  "date": "2026-10-29"
+  "count": 1,
+  "date": "2026-10-30"
  },
  "seen": {
   "https://news.sky.com/story/cruise-ship-mv-odyssey-stranded-in-cambodia-after-soaring-fuel-costs-13604720": 1793227002.6863809,
@@ -10,7 +10,6 @@
   "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss": 1793089287.6379635,
   "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss": 1793054798.1167426,
   "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss": 1793020833.4341834,
-  "https://www.aljazeera.com/video/newsfeed/2026/10/26/thousands-greet-opposition-leader-maria-machado-upon-return-to-caracas?traffic_source=rss": 1793016582.9200678,
   "https://www.aljazeera.com/video/newsfeed/2026/10/28/deadly-high-speed-train-collision-in-spain?traffic_source=rss": 1793191737.276587,
   "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss": 1793313921.1056588,
   "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss": 1793102902.5236206,
@@ -18,114 +17,31 @@
   "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss": 1793124960.5479217,
   "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss": 1793054798.1167407,
   "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss": 1793227002.6863797,
-  "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss": 1793016582.92007,
   "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-xml-mrss": 1793020833.4341838,
   "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-all-1573-xml-mrss": 1793278678.174298,
+  "https://www.dw.com/en/russia-critical-newspaper-novaya-gazeta-to-close/a-79805693?maca=en-rss-en-all-1573-xml-mrss": 1793364648.4121938,
   "https://www.dw.com/en/several-people-killed-after-high-speed-trains-collide-in-central-spain/a-79784119?maca=en-rss-en-all-1573-xml-mrss": 1793191737.27659,
   "https://www.dw.com/en/ukraine-14-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-all-1573-xml-mrss": 1793313921.1056623,
-  "https://www.dw.com/en/venezuela-opposition-leader-machado-returns-from-exile-received-by-thousands-of-supporters-in-caracas/a-79759187?maca=en-rss-en-all-1573-xml-mrss": 1793016582.920071,
   "https://www.france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown": 1793124960.547924,
   "https://www.france24.com/en/brazil-what-challenges-await-lula-in-his-fourth-term-as-president": 1793020833.4341826,
   "https://www.france24.com/en/europe/20261029-ecb-president-christine-lagarde-to-step-down-in-february-2027-nine-months-before-term-ends": 1793278678.1742992,
+  "https://www.france24.com/en/europe/20261030-russia-s-bastion-of-free-press-novaya-gazeta-shuts-down-after-years-of-kremlin-pressure": 1793364648.4121966,
   "https://www.france24.com/en/israelis-vote-in-first-national-election-since-october-7-attack": 1793102902.523623,
   "https://www.france24.com/en/leaders-across-americas-react-to-brazil-president-lula-s-re-election": 1793054798.116744,
   "https://www.france24.com/en/polls-open-in-israeli-election-seen-as-referendum-on-netanyahu": 1793089287.6379626,
-  "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile": 1793016582.9200728,
   "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election": 1793020833.4341846,
   "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide": 1793102902.523624,
   "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes": 1793227002.6863828,
   "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster": 1793191737.2765896,
   "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest": 1793054798.1167433,
-  "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return": 1793016582.9200718,
   "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election": 1793124960.5479357,
   "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo": 1793191737.276589,
   "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early": 1793278678.1742961,
+  "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close": 1793364648.4121957,
   "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula": 1793020833.4341805,
   "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates": 1793089287.6379604
  },
  "topics": [
-  {
-   "t": 1793054798.1167529,
-   "tokens": [
-    "bolsonaro",
-    "brazil",
-    "challenger",
-    "comeback",
-    "dramatic",
-    "election",
-    "first",
-    "fourth",
-    "incumbent",
-    "left",
-    "lost",
-    "lula",
-    "president",
-    "right",
-    "round",
-    "term",
-    "vio",
-    "wing",
-    "wins"
-   ]
-  },
-  {
-   "t": 1793089287.6379652,
-   "tokens": [
-    "benjamin",
-    "coalition",
-    "consequential",
-    "contender",
-    "country",
-    "eisenkot",
-    "election",
-    "gadi",
-    "history",
-    "israel",
-    "know",
-    "leading",
-    "live",
-    "lose",
-    "majority",
-    "minister",
-    "most",
-    "need",
-    "netanyahu",
-    "open",
-    "opposition",
-    "polling",
-    "polls",
-    "prime",
-    "shows",
-    "vote"
-   ]
-  },
-  {
-   "t": 1793102902.523626,
-   "tokens": [
-    "attacks",
-    "benjamin",
-    "decades",
-    "election",
-    "elections",
-    "far",
-    "first",
-    "followed",
-    "hamas",
-    "highest",
-    "israel",
-    "israelis",
-    "led",
-    "pivotal",
-    "referendum",
-    "seen",
-    "since",
-    "turnout",
-    "vote",
-    "wars",
-    "which",
-    "widely"
-   ]
-  },
   {
    "t": 1793124960.5479383,
    "tokens": [
@@ -235,6 +151,28 @@
     "strike",
     "train",
     "ukraine"
+   ]
+  },
+  {
+   "t": 1793364648.412198,
+   "tokens": [
+    "announced",
+    "authorities",
+    "close",
+    "closing",
+    "critical",
+    "gazeta",
+    "independent",
+    "last",
+    "meanwhile",
+    "media",
+    "newspaper",
+    "novaya",
+    "outlets",
+    "pressure",
+    "remaining",
+    "russia",
+    "state"
    ]
   }
  ]
