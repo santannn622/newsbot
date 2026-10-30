@@ -1,12 +1,12 @@
 {
  "daily": {
-  "count": 1,
+  "count": 2,
   "date": "2026-10-30"
  },
  "seen": {
-  "https://sports.yahoo.com/articles/ballon-dor-winner-takes-win-152140749.html": 1793029018.5884583,
   "https://sports.yahoo.com/articles/bayern-bosses-congratulate-kane-ballon-235200871.html": 1793060172.2542653,
   "https://sports.yahoo.com/articles/chiefs-cut-harrison-butker-justin-145602339.html": 1793200049.5888145,
+  "https://sports.yahoo.com/articles/england-see-off-usa-fail-232115795.html": 1793403891.276114,
   "https://sports.yahoo.com/articles/fully-committed-fernandes-remain-man-143156760.html": 1793287165.2923975,
   "https://sports.yahoo.com/articles/where-does-fleetwood-beating-arsenal-233525696.html": 1793144860.9829,
   "https://sports.yahoo.com/wnba/article/what-the-golden-state-valkyries-must-do-to-win-game-7-of-the-wnba-finals-235038958.html": 1793318320.4327593,
@@ -14,18 +14,17 @@
   "https://www.bbc.co.uk/sport/basketball/articles/cr4g181v4q4wo?at_medium=RSS&at_campaign=rss": 1793318320.4327624,
   "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss": 1793287165.2924016,
   "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&at_campaign=rss": 1793144860.982902,
-  "https://www.bbc.co.uk/sport/football/articles/cqdr8zv5dg42o?at_medium=RSS&at_campaign=rss": 1793046740.0223958,
   "https://www.bbc.co.uk/sport/football/articles/crlykgeqzypyo?at_medium=RSS&at_campaign=rss": 1793111233.4026577,
   "https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo?at_medium=RSS&at_campaign=rss": 1793232169.846665,
+  "https://www.bbc.co.uk/sport/rugby-union/articles/cq98zrj5dj6ro?at_medium=RSS&at_campaign=rss": 1793403891.276115,
   "https://www.cbssports.com/nfl/news/chiefs-sign-former-ravens-kicker-justin-tucker/": 1793200049.5888176,
-  "https://www.cbssports.com/soccer/news/ballon-dor-harry-kane-should-win-lamine-yamal-kylian-mbappe-lionel-messi/": 1793029018.58846,
   "https://www.skysports.com/football/arsenal-women-vs-benfica-women/report/578250": 1793232169.8466656,
   "https://www.skysports.com/football/fleetwood-town-vs-arsenal/live/578610": 1793144860.9829032,
   "https://www.skysports.com/football/news/12040/13601934/harry-kane-wins-2026-ballon-dor-bayern-munich-striker-becomes-first-english-winner-of-award-in-25-years": 1793060172.2542682,
-  "https://www.skysports.com/football/news/12040/13602156/manchester-united-players-to-return-to-training-on-tuesday-but-uncertain-if-michael-carrick-will-be-in-charge": 1793046740.0223942,
   "https://www.skysports.com/football/news/12040/13604347/man-utd-boss-michael-carrick-to-remain-in-charge-vs-chelsea-and-given-chance-to-turn-situation-around": 1793111233.4026592,
   "https://www.skysports.com/football/news/12040/13605331/manchester-united-michael-carrick-ready-to-move-forward-with-bruno-fernandes-as-captain-and-doesnt-require-assurances-on-his-future": 1793287165.2924025,
   "https://www.skysports.com/nfl/news/12040/13605642/carolina-panthers-19-27-green-bay-packers-jordan-love-throws-three-touchdown-passes-in-vital-win": 1793372677.2324786,
+  "https://www.skysports.com/rugby-union/usa-women-vs-england/report/113218": 1793403891.276111,
   "https://www.theguardian.com/football/2026/oct/27/fleetwood-town-arsenal-carabao-cup-fourth-round-match-report": 1793144860.9829044,
   "https://www.theguardian.com/football/2026/oct/27/manchester-united-eddie-howe-newcastle-compensation-michael-carrick": 1793111233.4026558,
   "https://www.theguardian.com/football/2026/oct/28/arsenal-v-benfica-womens-champions-league-match-report": 1793232169.8466628,
@@ -33,6 +32,7 @@
   "https://www.theguardian.com/football/live/2026/oct/26/ballon-dor-2026-updates-from-70th-edition-in-london-live": 1793060172.2542672,
   "https://www.theguardian.com/sport/2026/oct/28/justin-tucker-harrison-butker-nfl-kicker-chiefs": 1793200049.588817,
   "https://www.theguardian.com/sport/2026/oct/29/packers-panthers-thursday-night-football-nfl-christian-watson-hospital": 1793372677.2324798,
+  "https://www.theguardian.com/sport/2026/oct/30/england-return-to-winning-ways-with-comfortable-victory-over-usa": 1793403891.276113,
   "https://www.theguardian.com/sport/live/2026/oct/29/golden-state-valkyries-v-atlanta-dream-wnba-finals-2026-game-6-live-buildup": 1793318320.4327614
  },
  "topics": [
@@ -168,6 +168,33 @@
     "quarterback",
     "team",
     "win"
+   ]
+  },
+  {
+   "t": 1793403891.276117,
+   "tokens": [
+    "back",
+    "canada",
+    "crushing",
+    "defeats",
+    "england",
+    "global",
+    "jersey",
+    "macdonald",
+    "moloney",
+    "red",
+    "responded",
+    "return",
+    "roses",
+    "series",
+    "shock",
+    "stars",
+    "thrashing",
+    "usa",
+    "victory",
+    "ways",
+    "winning",
+    "wxv"
    ]
   }
  ]
