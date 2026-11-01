@@ -1,13 +1,13 @@
 {
  "daily": {
-  "count": 1,
+  "count": 2,
   "date": "2026-11-01"
  },
  "seen": {
-  "https://sports.yahoo.com/articles/chiefs-cut-harrison-butker-justin-145602339.html": 1793200049.5888145,
   "https://sports.yahoo.com/articles/england-see-off-usa-fail-232115795.html": 1793403891.276114,
   "https://sports.yahoo.com/articles/fully-committed-fernandes-remain-man-143156760.html": 1793287165.2923975,
   "https://sports.yahoo.com/articles/hamilton-takes-first-pole-ferrari-221738713.html": 1793489041.136899,
+  "https://sports.yahoo.com/articles/much-know-f1-champion-antonelli-222526869.html": 1793576123.7849844,
   "https://sports.yahoo.com/wnba/article/what-the-golden-state-valkyries-must-do-to-win-game-7-of-the-wnba-finals-235038958.html": 1793318320.4327593,
   "https://www.bbc.co.uk/sport/american-football/videos/c6m2dp0910p7o?at_medium=RSS&at_campaign=rss": 1793372677.2324767,
   "https://www.bbc.co.uk/sport/basketball/articles/cr4g181v4q4wo?at_medium=RSS&at_campaign=rss": 1793318320.4327624,
@@ -15,9 +15,9 @@
   "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss": 1793287165.2924016,
   "https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo?at_medium=RSS&at_campaign=rss": 1793232169.846665,
   "https://www.bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo?at_medium=RSS&at_campaign=rss": 1793489041.136901,
+  "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss": 1793576123.7849815,
   "https://www.bbc.co.uk/sport/rugby-union/articles/cq98zrj5dj6ro?at_medium=RSS&at_campaign=rss": 1793403891.276115,
   "https://www.bbc.co.uk/sport/tennis/articles/cm62y10v3p96o?at_medium=RSS&at_campaign=rss": 1793545518.871931,
-  "https://www.cbssports.com/nfl/news/chiefs-sign-former-ravens-kicker-justin-tucker/": 1793200049.5888176,
   "https://www.skysports.com/cricket/news/12040/13606064/south-africa-vs-australia-third-test-proteas-win-newlands-decider-to-take-series-and-soar-to-top-of-test-rankings": 1793457201.1122236,
   "https://www.skysports.com/football/arsenal-women-vs-benfica-women/report/578250": 1793232169.8466656,
   "https://www.skysports.com/football/news/12040/13605331/manchester-united-michael-carrick-ready-to-move-forward-with-bruno-fernandes-as-captain-and-doesnt-require-assurances-on-his-future": 1793287165.2924025,
@@ -25,43 +25,18 @@
   "https://www.skysports.com/rugby-union/usa-women-vs-england/report/113218": 1793403891.276111,
   "https://www.skysports.com/tennis/news/12040/13606592/harriet-dart-beats-austrias-lilli-tagger-to-win-first-wta-tour-title-at-guangzhou-open": 1793545518.8719347,
   "https://www.skysports.com/watch/video/13606516/mexico-city-grand-prix-qualifying-highlights": 1793489041.1369023,
+  "https://www.skysports.com/watch/video/13606868/mexico-city-gp-kimi-antonelli-looking-to-emulate-greats-with-more-world-titles": 1793576123.7849853,
   "https://www.theguardian.com/football/2026/oct/28/arsenal-v-benfica-womens-champions-league-match-report": 1793232169.8466628,
   "https://www.theguardian.com/football/2026/oct/29/michael-carrick-keeps-bruno-fernandes-captain-assurances-future-manchester-united": 1793287165.2924006,
   "https://www.theguardian.com/sport/2026/nov/01/harriet-dart-wins-maiden-wta-title-guangzhou-open-tennis-lilli-tagger": 1793545518.871934,
-  "https://www.theguardian.com/sport/2026/oct/28/justin-tucker-harrison-butker-nfl-kicker-chiefs": 1793200049.588817,
   "https://www.theguardian.com/sport/2026/oct/29/packers-panthers-thursday-night-football-nfl-christian-watson-hospital": 1793372677.2324798,
   "https://www.theguardian.com/sport/2026/oct/30/england-return-to-winning-ways-with-comfortable-victory-over-usa": 1793403891.276113,
+  "https://www.theguardian.com/sport/live/2026/nov/01/mexican-formula-one-grand-prix-kimi-antonelli-aims-to-seal-title-live": 1793576123.7849863,
   "https://www.theguardian.com/sport/live/2026/oct/29/golden-state-valkyries-v-atlanta-dream-wnba-finals-2026-game-6-live-buildup": 1793318320.4327614,
   "https://www.theguardian.com/sport/live/2026/oct/31/mexican-grand-prix-qualifying-formula-one-2026-live": 1793489041.1369016,
   "https://www.theguardian.com/sport/live/2026/oct/31/south-africa-v-australia-third-test-day-five-cricket-newlands-cape-town-live-updates": 1793457201.1122198
  },
  "topics": [
-  {
-   "t": 1793287165.2924047,
-   "tokens": [
-    "addresses",
-    "bruno",
-    "captain",
-    "carrick",
-    "chelsea",
-    "coach",
-    "committed",
-    "confirms",
-    "fernandes",
-    "fully",
-    "future",
-    "head",
-    "man",
-    "manchester",
-    "michael",
-    "own",
-    "remain",
-    "saturday",
-    "trip",
-    "united",
-    "utd"
-   ]
-  },
   {
    "t": 1793318320.4327645,
    "tokens": [
@@ -202,6 +177,26 @@
     "wild",
     "wins",
     "wta"
+   ]
+  },
+  {
+   "t": 1793576123.7849884,
+   "tokens": [
+    "antonelli",
+    "becomes",
+    "champion",
+    "city",
+    "formula",
+    "grand",
+    "history",
+    "kimi",
+    "max",
+    "mexico",
+    "prix",
+    "verstappen",
+    "wins",
+    "world",
+    "youngest"
    ]
   }
  ]
